@@ -1,0 +1,2061 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.985; Version 2009; 64bit' Language: 'tr' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/murat/colorme
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54673
+Successfully changed project path to: C:/Users/murat/colorme
+C:/Users/murat/colorme
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 68.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/murat/colorme/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003428 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 66.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.882 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 59.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.519 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1864 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 2.828200 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.106500 ms MarkObjects: 2.310100 ms  DeleteObjects: 0.185100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/mavi_haftasi.unity
+  artifactKey: Guid(c0d33346261b9bb4298788fe4d6e569c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mavi_haftasi.unity using Guid(c0d33346261b9bb4298788fe4d6e569c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19b9c608e2149d1d3d5b49c842f48a0') in 0.027650 seconds
+  Import took 0.033758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.775531 seconds.
+  path: Assets/Scenes/menu2.unity
+  artifactKey: Guid(b2db683feb3af2846b498cf3cbfca82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu2.unity using Guid(b2db683feb3af2846b498cf3cbfca82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c05b7c27907b0525cf7b4ab8f326a8') in 0.017694 seconds
+  Import took 0.025069 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001476 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.785 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 2.995300 ms (FindLiveObjects: 0.239400 ms CreateObjectMapping: 0.100700 ms MarkObjects: 2.506600 ms  DeleteObjects: 0.146900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.976 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 3.801800 ms (FindLiveObjects: 0.229700 ms CreateObjectMapping: 0.099700 ms MarkObjects: 3.275300 ms  DeleteObjects: 0.194900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.455 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 3.935100 ms (FindLiveObjects: 0.246600 ms CreateObjectMapping: 0.108200 ms MarkObjects: 3.138000 ms  DeleteObjects: 0.440200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.471 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 5.055200 ms (FindLiveObjects: 0.244900 ms CreateObjectMapping: 0.104600 ms MarkObjects: 4.477800 ms  DeleteObjects: 0.226000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002176 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 2.846800 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.086400 ms MarkObjects: 2.381300 ms  DeleteObjects: 0.148700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.427984 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe81f2d8db5407a0a038df17748e429') in 0.028723 seconds
+  Import took 0.035204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1070.940156 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b05ad156551c8220bdcea1ad5deb4acd') in 0.019005 seconds
+  Import took 0.027455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.837032 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3877109f7214f5f3f819cd696f8c2f43') in 0.008146 seconds
+  Import took 0.014718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.001304 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56927e25531f1c7879de637f0fd98f19') in 0.012769 seconds
+  Import took 0.020347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.851252 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '242918d7dc0238e0b992f30ecafd0baa') in 0.009219 seconds
+  Import took 0.016130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.976231 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbcb462f5aa081ed2992fd484e2f808e') in 0.013071 seconds
+  Import took 0.022760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.644141 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc6c7ba9f60f4abc54a568dc4833d30') in 0.012859 seconds
+  Import took 0.019023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.145594 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009a57a9a9b2e45f6ca3cad776760815') in 0.011468 seconds
+  Import took 0.016801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.334220 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292855f99c70e8a538b5058e93878342') in 0.012936 seconds
+  Import took 0.019794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.340803 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1149984426a6048a8900bb2ad26eb740') in 0.009587 seconds
+  Import took 0.016813 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.606 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 3.980100 ms (FindLiveObjects: 0.376700 ms CreateObjectMapping: 0.211900 ms MarkObjects: 3.225600 ms  DeleteObjects: 0.163800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001340 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.497 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 9.666700 ms (FindLiveObjects: 1.081800 ms CreateObjectMapping: 0.318100 ms MarkObjects: 8.112100 ms  DeleteObjects: 0.151900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001445 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.518 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 6.829800 ms (FindLiveObjects: 0.780700 ms CreateObjectMapping: 1.293700 ms MarkObjects: 4.602600 ms  DeleteObjects: 0.150700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.422 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 3.354100 ms (FindLiveObjects: 0.278500 ms CreateObjectMapping: 0.110000 ms MarkObjects: 2.759100 ms  DeleteObjects: 0.202600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 463.499407 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e05530ed03d496a870296ef105ef9d2') in 0.058856 seconds
+  Import took 0.066830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.134843 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2451f085203a21265e4ecbeeb2ddc3ca') in 0.017826 seconds
+  Import took 0.025677 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.630 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 2.933400 ms (FindLiveObjects: 0.256900 ms CreateObjectMapping: 0.105000 ms MarkObjects: 2.421300 ms  DeleteObjects: 0.148300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.409571 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2573647b18d2ae0e0aee8a79b88f9367') in 0.043719 seconds
+  Import took 0.050209 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001166 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.667 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 3.246700 ms (FindLiveObjects: 0.234100 ms CreateObjectMapping: 0.092800 ms MarkObjects: 2.241900 ms  DeleteObjects: 0.676000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 628.960308 seconds.
+  path: Assets/Yemyesil
+  artifactKey: Guid(3adad2671673ece4b8442162e7804f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil using Guid(3adad2671673ece4b8442162e7804f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e930a6cc97c138fe4caf77d8ae87ccf3') in 0.020016 seconds
+  Import took 0.029561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.334795 seconds.
+  path: Assets/Yemyesil/Soru1
+  artifactKey: Guid(a325f62c2bf0ead4e9e9d49c8886f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru1 using Guid(a325f62c2bf0ead4e9e9d49c8886f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd5e68ae18e04b80ccbb81c202bef4c') in 0.012904 seconds
+  Import took 0.021540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.978637 seconds.
+  path: Assets/Yemyesil/Soru2
+  artifactKey: Guid(c19ccd6509a648849a8985c797fbeb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru2 using Guid(c19ccd6509a648849a8985c797fbeb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc8da0f0d6e0f7867975a05b2f20250') in 0.015984 seconds
+  Import took 0.023720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.435303 seconds.
+  path: Assets/Yemyesil/Soru3
+  artifactKey: Guid(cf1c3365d650b4e489215efb77cef909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru3 using Guid(cf1c3365d650b4e489215efb77cef909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2643eb4f7ee8f8c74ef9e659164d33') in 0.013581 seconds
+  Import took 0.020127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.462519 seconds.
+  path: Assets/Yemyesil/Soru4
+  artifactKey: Guid(b07cb0ff0afdf4b40a32dd410d1f8029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru4 using Guid(b07cb0ff0afdf4b40a32dd410d1f8029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946d9df3557eb909598599f787977aa1') in 0.013565 seconds
+  Import took 0.019347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.717976 seconds.
+  path: Assets/Yemyesil/Soru5
+  artifactKey: Guid(58b2c8c267f7bcb42bbaddacc0236a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru5 using Guid(58b2c8c267f7bcb42bbaddacc0236a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04079c1e88ab5998ecc67eb4454f95f2') in 0.022924 seconds
+  Import took 0.030304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001061 seconds.
+  path: Assets/Yemyesil/Soru5
+  artifactKey: Guid(58b2c8c267f7bcb42bbaddacc0236a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru5 using Guid(58b2c8c267f7bcb42bbaddacc0236a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04079c1e88ab5998ecc67eb4454f95f2') in 0.010997 seconds
+  Import took 0.021235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.995542 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ea92bdcb1635cd8272b148a8cf471e') in 0.030509 seconds
+  Import took 0.036260 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001327 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.099 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 2.817200 ms (FindLiveObjects: 0.250800 ms CreateObjectMapping: 0.114700 ms MarkObjects: 2.177100 ms  DeleteObjects: 0.272500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.953824 seconds.
+  path: Assets/Scripts/yesil_gecis.cs
+  artifactKey: Guid(90bd1d92fbfb5c143bfb1a531c47b028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/yesil_gecis.cs using Guid(90bd1d92fbfb5c143bfb1a531c47b028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fadea30ea065bba9658a391904431547') in 0.145716 seconds
+  Import took 0.151995 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002507 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.745 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 3.918100 ms (FindLiveObjects: 0.243600 ms CreateObjectMapping: 0.092800 ms MarkObjects: 3.419500 ms  DeleteObjects: 0.160300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.818 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.972200 ms (FindLiveObjects: 0.337400 ms CreateObjectMapping: 0.193600 ms MarkObjects: 2.297800 ms  DeleteObjects: 0.141600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 2.890000 ms (FindLiveObjects: 0.276300 ms CreateObjectMapping: 0.100900 ms MarkObjects: 2.315600 ms  DeleteObjects: 0.195000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 826.723106 seconds.
+  path: Assets/Yemyesil/Soru1/yaprak_kirmizi.png
+  artifactKey: Guid(18ff2a76f40f39e43a4010fbe9a81b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru1/yaprak_kirmizi.png using Guid(18ff2a76f40f39e43a4010fbe9a81b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebadd510071afded7515b5a1a9f74423') in 0.242436 seconds
+  Import took 0.252536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Yemyesil/Soru1/yaprak_pembe.png
+  artifactKey: Guid(4d0b14db90932374996c0c3aaa8d8bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru1/yaprak_pembe.png using Guid(4d0b14db90932374996c0c3aaa8d8bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644b2a37a6fc6e95d6be4943c84b8991') in 0.036125 seconds
+  Import took 0.044276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Yemyesil/Soru1/yaprak_yesil.png
+  artifactKey: Guid(3146f7e7b3141d042af587e0875a8c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru1/yaprak_yesil.png using Guid(3146f7e7b3141d042af587e0875a8c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464e64be78d0d18685e7c1a18e89ba44') in 0.118532 seconds
+  Import took 0.128394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Yemyesil/Soru1/yaprak_sari.png
+  artifactKey: Guid(233242d7ccd291e45bce5f7de177a1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru1/yaprak_sari.png using Guid(233242d7ccd291e45bce5f7de177a1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38a1e4dd7e58683b7333cf6b461f8cc') in 0.121487 seconds
+  Import took 0.135254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.250379 seconds.
+  path: Assets/Yemyesil/Soru2/avocado_mor.png
+  artifactKey: Guid(f6a8ef9d474e6ba458a3d9be60cedfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru2/avocado_mor.png using Guid(f6a8ef9d474e6ba458a3d9be60cedfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60dd38aee2d52ec88116ea79eb3ff4a') in 0.027854 seconds
+  Import took 0.033157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Yemyesil/Soru2/avocado_yesil.png
+  artifactKey: Guid(60bfa0b706cbc2f45a142ce263086b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru2/avocado_yesil.png using Guid(60bfa0b706cbc2f45a142ce263086b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42973ceac5095ad7e5e345c923e3fe55') in 0.029180 seconds
+  Import took 0.036694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.080744 seconds.
+  path: Assets/Yemyesil/Soru3/kaplumbaga_kirmizi.png
+  artifactKey: Guid(7fe7424463263d44fa35e972ace26e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru3/kaplumbaga_kirmizi.png using Guid(7fe7424463263d44fa35e972ace26e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9467537d0f10d24a81a4481cb2d2213e') in 0.027447 seconds
+  Import took 0.033396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Yemyesil/Soru3/kaplumbaga_yesil.png
+  artifactKey: Guid(5acd2a95289f6634fbda8fd636c6a8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru3/kaplumbaga_yesil.png using Guid(5acd2a95289f6634fbda8fd636c6a8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba63aff396a39124783a5196ec9eadc') in 0.031946 seconds
+  Import took 0.037472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Yemyesil/Soru3/kaplumbaga_mor.png
+  artifactKey: Guid(2a6ee26cc6a0fd142a9bf3a2215d911a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru3/kaplumbaga_mor.png using Guid(2a6ee26cc6a0fd142a9bf3a2215d911a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e320611a55f3410461c6b0488aa0905') in 0.048125 seconds
+  Import took 0.053171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.673931 seconds.
+  path: Assets/Yemyesil/Soru4/tisort_mavi.png
+  artifactKey: Guid(26d41e75a22b48245a94a9d427cd3dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru4/tisort_mavi.png using Guid(26d41e75a22b48245a94a9d427cd3dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '649d04b0acc8b2bc802e1fe4d7585342') in 0.036239 seconds
+  Import took 0.046160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Yemyesil/Soru4/tisort_yesil.png
+  artifactKey: Guid(d827ee62dd6d9a7499f2ba0b47428241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru4/tisort_yesil.png using Guid(d827ee62dd6d9a7499f2ba0b47428241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b306dfb7088096feb4d10a9c7bc59369') in 0.080386 seconds
+  Import took 0.091429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Yemyesil/Soru4/tisort_mor.png
+  artifactKey: Guid(6dd1eddbdf6aa5743a76ca11ca7b53dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru4/tisort_mor.png using Guid(6dd1eddbdf6aa5743a76ca11ca7b53dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3964673d75abdceea53c63f71438673') in 0.025996 seconds
+  Import took 0.036984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Yemyesil/Soru4/tisort_turuncu.png
+  artifactKey: Guid(aadd4cb91c17b16468e436531cbc86ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru4/tisort_turuncu.png using Guid(aadd4cb91c17b16468e436531cbc86ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4fb78233573bebc4c298a417abbbb42') in 0.037646 seconds
+  Import took 0.044447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Yemyesil/Soru4/tisort_mor.png
+  artifactKey: Guid(6dd1eddbdf6aa5743a76ca11ca7b53dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru4/tisort_mor.png using Guid(6dd1eddbdf6aa5743a76ca11ca7b53dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3964673d75abdceea53c63f71438673') in 0.019911 seconds
+  Import took 0.026998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.872082 seconds.
+  path: Assets/Yemyesil/Soru5/top_kirmizi.png
+  artifactKey: Guid(3d50617231aefa541b537823f1a25867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru5/top_kirmizi.png using Guid(3d50617231aefa541b537823f1a25867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14faeccc921c9e03c999b8b2bc793054') in 0.020737 seconds
+  Import took 0.028346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Yemyesil/Soru5/top_mavi.png
+  artifactKey: Guid(e5754c896769d054eac1aec05f22b0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru5/top_mavi.png using Guid(e5754c896769d054eac1aec05f22b0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28c5013eb38e95769a0b9e3098246b5') in 0.024675 seconds
+  Import took 0.029518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Yemyesil/Soru5/top_sari.png
+  artifactKey: Guid(d6376c1e25217ad46853af9d071636a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru5/top_sari.png using Guid(d6376c1e25217ad46853af9d071636a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab06bd7af688adca2cee956674d2b11') in 0.038716 seconds
+  Import took 0.045172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Yemyesil/Soru5/top_yesil.png
+  artifactKey: Guid(fbdb04c1257fcd34cac620aef55c45cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yemyesil/Soru5/top_yesil.png using Guid(fbdb04c1257fcd34cac620aef55c45cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778c63a60cd1b969cf5a8ce295993e55') in 0.026555 seconds
+  Import took 0.033025 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.657 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 6.037000 ms (FindLiveObjects: 0.506700 ms CreateObjectMapping: 0.401300 ms MarkObjects: 4.974000 ms  DeleteObjects: 0.150900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.640508 seconds.
+  path: Assets/Scenes/menu1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20898ffcc434f903432038f0fce56d7c') in 0.035157 seconds
+  Import took 0.042264 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001325 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.411 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2382.
+Total: 2.947900 ms (FindLiveObjects: 0.245700 ms CreateObjectMapping: 0.097600 ms MarkObjects: 2.456700 ms  DeleteObjects: 0.146100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 790.802810 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9481e2dd46e89bda5801d32c3cd998') in 0.035786 seconds
+  Import took 0.042373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.646271 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afeeb00bcdcee965becd343fa2e3aedd') in 0.014909 seconds
+  Import took 0.022325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.517443 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e966aeb3338c43469fc8d0b7c473ca48') in 0.021662 seconds
+  Import took 0.028949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.345221 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edfd6e3f3f0d20b2598449b039fb03a4') in 0.015179 seconds
+  Import took 0.022072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.694571 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d35da6a1fe7656d312f7c3cab017ddb') in 0.019706 seconds
+  Import took 0.027867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.335762 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f87afae178f1076779957ab7911fe64') in 0.012835 seconds
+  Import took 0.017162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.315528 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144eb515f7c9411466d4c02805dcfa5d') in 0.012773 seconds
+  Import took 0.017305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.531425 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef08e212aeebe540e98377fc83416dd2') in 0.012757 seconds
+  Import took 0.019312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.469013 seconds.
+  path: Assets/Scripts/mavi_gecis.cs
+  artifactKey: Guid(ac69c7dd0e81e5249b1018df6108e587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/mavi_gecis.cs using Guid(ac69c7dd0e81e5249b1018df6108e587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87cfbf62d16d369be5fe70429fc81e7b') in 0.011090 seconds
+  Import took 0.016151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.987004 seconds.
+  path: Assets/Scripts/mor_gecis.cs
+  artifactKey: Guid(3bd53aedd893beb489392471d9192b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/mor_gecis.cs using Guid(3bd53aedd893beb489392471d9192b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329df6a5f54bad4414f47a85f46d343f') in 0.014833 seconds
+  Import took 0.026842 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1848 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2387.
+Total: 2.765400 ms (FindLiveObjects: 0.320600 ms CreateObjectMapping: 0.084000 ms MarkObjects: 2.228300 ms  DeleteObjects: 0.130900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.169 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1849 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 2.479900 ms (FindLiveObjects: 0.215800 ms CreateObjectMapping: 0.087000 ms MarkObjects: 2.038500 ms  DeleteObjects: 0.137400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.641038 seconds.
+  path: Assets/Scripts/kirmizi_gecis.cs
+  artifactKey: Guid(c7226c3d602cbfa41927b209acfb53f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/kirmizi_gecis.cs using Guid(c7226c3d602cbfa41927b209acfb53f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c048b0648648ab5d7f48849f34fbd45') in 0.053377 seconds
+  Import took 0.062203 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.125 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2397.
+Total: 2.656200 ms (FindLiveObjects: 0.209000 ms CreateObjectMapping: 0.088000 ms MarkObjects: 2.229700 ms  DeleteObjects: 0.127400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.647278 seconds.
+  path: Assets/Scripts/kirmizi_.cs
+  artifactKey: Guid(5e4faabdaa6a5844eb47b2b95e1888b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/kirmizi_.cs using Guid(5e4faabdaa6a5844eb47b2b95e1888b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c56fd0984b437825602d580daaff1a') in 0.011504 seconds
+  Import took 0.014935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001213 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.269 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1849 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 2.802900 ms (FindLiveObjects: 0.242200 ms CreateObjectMapping: 0.097300 ms MarkObjects: 2.211100 ms  DeleteObjects: 0.249000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.230988 seconds.
+  path: Assets/Scripts/turuncu_gecis.cs
+  artifactKey: Guid(0c220d7e59c539f49ae395f744d1d172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/turuncu_gecis.cs using Guid(0c220d7e59c539f49ae395f744d1d172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c63d912e153687940a080c465a5bbf') in 0.065957 seconds
+  Import took 0.079949 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2405.
+Total: 2.797800 ms (FindLiveObjects: 0.237200 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.352300 ms  DeleteObjects: 0.134700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.783982 seconds.
+  path: Assets/Scripts/sari_gecis.cs
+  artifactKey: Guid(b8f59ee172cb4474dac414133807cfba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/sari_gecis.cs using Guid(b8f59ee172cb4474dac414133807cfba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b43855a6edc5a8ceb3edd80b83953cb0') in 0.027588 seconds
+  Import took 0.043498 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2410.
+Total: 3.026100 ms (FindLiveObjects: 0.314300 ms CreateObjectMapping: 0.141000 ms MarkObjects: 2.441200 ms  DeleteObjects: 0.127700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.524817 seconds.
+  path: Assets/Scripts/pembe_gecis.cs
+  artifactKey: Guid(0bf02f35dc8e1c14c9988bbdf3cf3ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/pembe_gecis.cs using Guid(0bf02f35dc8e1c14c9988bbdf3cf3ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af21e92ce26b793c5373b9c3cb17d17') in 0.028855 seconds
+  Import took 0.038338 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.471 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1852 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2415.
+Total: 2.662300 ms (FindLiveObjects: 0.231600 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.233000 ms  DeleteObjects: 0.122100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.267 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2418.
+Total: 3.173200 ms (FindLiveObjects: 0.251000 ms CreateObjectMapping: 0.107700 ms MarkObjects: 2.659000 ms  DeleteObjects: 0.153800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.324 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2421.
+Total: 4.782200 ms (FindLiveObjects: 0.417900 ms CreateObjectMapping: 0.297100 ms MarkObjects: 3.806800 ms  DeleteObjects: 0.258300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001268 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1849 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2424.
+Total: 2.731600 ms (FindLiveObjects: 0.239400 ms CreateObjectMapping: 0.089500 ms MarkObjects: 2.265500 ms  DeleteObjects: 0.135900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001860 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.453 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1848 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2427.
+Total: 2.731300 ms (FindLiveObjects: 0.256800 ms CreateObjectMapping: 0.100300 ms MarkObjects: 2.228000 ms  DeleteObjects: 0.144600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002014 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.465 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 3.795500 ms (FindLiveObjects: 0.290600 ms CreateObjectMapping: 0.190500 ms MarkObjects: 3.149300 ms  DeleteObjects: 0.163300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.124844 seconds.
+  path: Assets/Scripts/gecisler.cs
+  artifactKey: Guid(62832fcbb773d1f4784f893d2dece662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/gecisler.cs using Guid(62832fcbb773d1f4784f893d2dece662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991c0604978aae21aeb7ef6ebebfdd31') in 0.027925 seconds
+  Import took 0.035043 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001907 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1848 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2435.
+Total: 4.830800 ms (FindLiveObjects: 0.236100 ms CreateObjectMapping: 0.092000 ms MarkObjects: 4.194800 ms  DeleteObjects: 0.305500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.156 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 2.789600 ms (FindLiveObjects: 0.227800 ms CreateObjectMapping: 0.102300 ms MarkObjects: 2.308600 ms  DeleteObjects: 0.149600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.982953 seconds.
+  path: Assets/Scripts/yesil_gecis.cs
+  artifactKey: Guid(90bd1d92fbfb5c143bfb1a531c47b028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/yesil_gecis.cs using Guid(90bd1d92fbfb5c143bfb1a531c47b028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5ad9a770906729be1e61b5998ac8ca') in 0.007952 seconds
+  Import took 0.013683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002766 seconds.
+  path: Assets/Scripts/yesil_gecis.cs
+  artifactKey: Guid(90bd1d92fbfb5c143bfb1a531c47b028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/yesil_gecis.cs using Guid(90bd1d92fbfb5c143bfb1a531c47b028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5ad9a770906729be1e61b5998ac8ca') in 0.011859 seconds
+  Import took 0.016814 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.296 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2441.
+Total: 3.730000 ms (FindLiveObjects: 0.231600 ms CreateObjectMapping: 0.090400 ms MarkObjects: 3.256900 ms  DeleteObjects: 0.149500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2445.
+Total: 3.012200 ms (FindLiveObjects: 0.248800 ms CreateObjectMapping: 0.107700 ms MarkObjects: 2.513800 ms  DeleteObjects: 0.140300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002055 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.570 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2449.
+Total: 2.996200 ms (FindLiveObjects: 0.336300 ms CreateObjectMapping: 0.111300 ms MarkObjects: 2.393400 ms  DeleteObjects: 0.153800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 287.859634 seconds.
+  path: Assets/Scenes/menu1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c627434ecb3c5a96ef2143bdf46515') in 0.046253 seconds
+  Import took 0.050581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 284.566118 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19798f444fe3294aac75a5a2552d9ed5') in 0.013602 seconds
+  Import took 0.022188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.648977 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fcabe38d60b45f5481069fc4c51a658') in 0.008257 seconds
+  Import took 0.014240 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.074 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2453.
+Total: 2.633100 ms (FindLiveObjects: 0.227300 ms CreateObjectMapping: 0.083100 ms MarkObjects: 2.192100 ms  DeleteObjects: 0.129400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.505906 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d4630f76a2b767708698a663e0a390') in 0.028994 seconds
+  Import took 0.033469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.038367 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb3c4bcb82d33430b23b0a742a51905') in 0.005438 seconds
+  Import took 0.009801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.277685 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f11e2394090fce12bcfd866fcb658d4') in 0.007990 seconds
+  Import took 0.012414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.988336 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009a1f779c83ae3f0fa60df3a5caa1fb') in 0.006899 seconds
+  Import took 0.012363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.035333 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117b1525b9dcae3531a13fa9e97b7a54') in 0.013071 seconds
+  Import took 0.017270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.213409 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '828a62c63fb5131745fba3a3da5d5a2c') in 0.006624 seconds
+  Import took 0.012905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.070755 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39954d61a25119be060dbfc282fea36') in 0.007401 seconds
+  Import took 0.012791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.594885 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55d573c4e14fb45ea6b00e6d3a39d0d') in 0.007973 seconds
+  Import took 0.014165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.070625 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d54174eeffe9fd30e12631421869fb7') in 0.006528 seconds
+  Import took 0.013111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.618536 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a94745481444c8e572dc8a778917691') in 0.007462 seconds
+  Import took 0.012468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.235291 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b55d44e4e7ea4a99567e5490bc3c2f') in 0.005237 seconds
+  Import took 0.011773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.099624 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1227acfa76ac045b44da22ff8cafe3') in 0.014669 seconds
+  Import took 0.019922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.075885 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c3d49f2e5a9c66994fae3f2bcb80ea') in 0.006935 seconds
+  Import took 0.012976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.867780 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902d5e1be1356d78070ec374509c5636') in 0.008643 seconds
+  Import took 0.014688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.196217 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d471c2fa69b61d0a932ac928a99ace') in 0.011526 seconds
+  Import took 0.016941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.499088 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa8c3d5b1a52c0c336ec35fda266dbe') in 0.013190 seconds
+  Import took 0.018352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.581644 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8230ac342da343b50f1129a9292598') in 0.012475 seconds
+  Import took 0.017913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.180693 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c95af7853fa26907edc7c9ade638aeb') in 0.010728 seconds
+  Import took 0.022297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.310740 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f44ac8fa9c6157ade83fc68d7a95fe') in 0.007881 seconds
+  Import took 0.012297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.041346 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b16609e85b0e4580003dc157a46ee1b') in 0.008022 seconds
+  Import took 0.014059 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001334 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.088 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2457.
+Total: 2.783900 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.076500 ms MarkObjects: 2.325500 ms  DeleteObjects: 0.139300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.311021 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86000c619a595e8d46ab14a4177aaf0') in 0.023577 seconds
+  Import took 0.029665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.572709 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e86ae03d1931fd095a4cc95713a0d1f') in 0.010897 seconds
+  Import took 0.018126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.574354 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48297360aedbfb5a23574f0c9265c1dd') in 0.008926 seconds
+  Import took 0.014614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.857514 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ba3df07dde365a12055eb882211a74') in 0.007112 seconds
+  Import took 0.013201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.135804 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e436d66f5d5a56b3c82cd0ec58295f') in 0.007769 seconds
+  Import took 0.012656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.345602 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0dbf5bd28069851f2fef642ff039ac') in 0.006180 seconds
+  Import took 0.013699 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001253 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.085 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2461.
+Total: 2.426400 ms (FindLiveObjects: 0.227900 ms CreateObjectMapping: 0.078100 ms MarkObjects: 1.986400 ms  DeleteObjects: 0.132800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.622 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2465.
+Total: 6.023100 ms (FindLiveObjects: 0.465500 ms CreateObjectMapping: 0.190700 ms MarkObjects: 4.770000 ms  DeleteObjects: 0.594700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.375636 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957b39d51664f845fe1315b18e737092') in 0.025991 seconds
+  Import took 0.032639 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006803 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.294 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2469.
+Total: 3.723100 ms (FindLiveObjects: 0.782700 ms CreateObjectMapping: 0.139700 ms MarkObjects: 2.649000 ms  DeleteObjects: 0.150100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.221088 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0949689f152976225d03ccd04f311f63') in 0.023551 seconds
+  Import took 0.029917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002517 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0949689f152976225d03ccd04f311f63') in 0.007294 seconds
+  Import took 0.012361 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001974 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.511 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2473.
+Total: 2.899800 ms (FindLiveObjects: 0.271200 ms CreateObjectMapping: 0.117000 ms MarkObjects: 2.356700 ms  DeleteObjects: 0.153300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.780663 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08df10604207739faae5608e24ab579') in 0.035286 seconds
+  Import took 0.040320 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.528 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2477.
+Total: 2.886800 ms (FindLiveObjects: 0.267500 ms CreateObjectMapping: 0.111800 ms MarkObjects: 2.344900 ms  DeleteObjects: 0.161200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2481.
+Total: 3.049300 ms (FindLiveObjects: 0.364500 ms CreateObjectMapping: 0.111800 ms MarkObjects: 2.415900 ms  DeleteObjects: 0.156000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.365586 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680e8887d2e7140b555dedc7db7c33ca') in 0.019020 seconds
+  Import took 0.025852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003701 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680e8887d2e7140b555dedc7db7c33ca') in 0.006966 seconds
+  Import took 0.012399 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001379 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2485.
+Total: 3.217600 ms (FindLiveObjects: 0.253900 ms CreateObjectMapping: 0.094000 ms MarkObjects: 2.718600 ms  DeleteObjects: 0.149700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.380548 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba8856fa87201bff510c5ec61ac07c7') in 0.028041 seconds
+  Import took 0.033797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.794171 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15fc806d888cfc7004de6fd713c7d3bb') in 0.010395 seconds
+  Import took 0.016730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.955390 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc3aecd77f878a6202796e84daeb8e8') in 0.008880 seconds
+  Import took 0.015949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.182607 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48abc605919d66505b112726f2a8871b') in 0.008956 seconds
+  Import took 0.014268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.326762 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f7786399fc6c7a21fa1482d03b13081') in 0.007376 seconds
+  Import took 0.014282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.539436 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e0e3d631c9b3a65848c2072d8e26fb') in 0.006064 seconds
+  Import took 0.011125 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2489.
+Total: 3.326500 ms (FindLiveObjects: 0.250500 ms CreateObjectMapping: 0.102300 ms MarkObjects: 2.826900 ms  DeleteObjects: 0.145200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.221688 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2978c9033d5a84d6d5b952d8bbf7e371') in 0.027675 seconds
+  Import took 0.033390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.462151 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda19725283360f77aec97c4e6d9fadf') in 0.010215 seconds
+  Import took 0.019442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.357929 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe7eae95439199cdd90ff50db85c004') in 0.006143 seconds
+  Import took 0.011688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.910116 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6636fe8259ce098a430e5c72699cd1bd') in 0.012813 seconds
+  Import took 0.018948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.177641 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a06373ad12789af18e81c550a6d8bf') in 0.006697 seconds
+  Import took 0.014590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.784746 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032af6fd6b46e425727a5bf9b5355df0') in 0.009168 seconds
+  Import took 0.015956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017666 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032af6fd6b46e425727a5bf9b5355df0') in 0.012467 seconds
+  Import took 0.019496 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001915 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.569 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2493.
+Total: 5.061500 ms (FindLiveObjects: 0.456300 ms CreateObjectMapping: 0.199400 ms MarkObjects: 4.232300 ms  DeleteObjects: 0.171900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001533 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.330 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2497.
+Total: 2.821900 ms (FindLiveObjects: 0.264500 ms CreateObjectMapping: 0.106100 ms MarkObjects: 2.302900 ms  DeleteObjects: 0.146500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.383127 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0be272a178f847a485bd49517cb5c4') in 0.026405 seconds
+  Import took 0.031489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005174 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0be272a178f847a485bd49517cb5c4') in 0.007391 seconds
+  Import took 0.012331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.579101 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4e19e6fb954b3f06ea53a871a66421') in 0.005322 seconds
+  Import took 0.010868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016722 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4e19e6fb954b3f06ea53a871a66421') in 0.007707 seconds
+  Import took 0.013406 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.554 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2501.
+Total: 4.424900 ms (FindLiveObjects: 0.394200 ms CreateObjectMapping: 0.149800 ms MarkObjects: 3.621500 ms  DeleteObjects: 0.257700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.814423 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b1354350ab3bc0518e0bb34d81e091') in 0.028196 seconds
+  Import took 0.035754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008718 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b1354350ab3bc0518e0bb34d81e091') in 0.009589 seconds
+  Import took 0.014445 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.319 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2505.
+Total: 3.299300 ms (FindLiveObjects: 0.252200 ms CreateObjectMapping: 0.101700 ms MarkObjects: 2.700600 ms  DeleteObjects: 0.243200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.400543 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa6d914c59cd9ffe6d2bb6ab537440f') in 0.026284 seconds
+  Import took 0.045829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.864554 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1487e6b7ea16433b8667c0cd76704d6') in 0.006614 seconds
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.526433 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b83b897c12844e04a2a099551bdc3f') in 0.011380 seconds
+  Import took 0.017705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.982061 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d965185427cedd5d94b47906e65ca9') in 0.012354 seconds
+  Import took 0.022928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.611704 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2571a211c5d63971c547359cce6713f3') in 0.006800 seconds
+  Import took 0.011562 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2509.
+Total: 3.453200 ms (FindLiveObjects: 0.266700 ms CreateObjectMapping: 0.116800 ms MarkObjects: 2.873800 ms  DeleteObjects: 0.194400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

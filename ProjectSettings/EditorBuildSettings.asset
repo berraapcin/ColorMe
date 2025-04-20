@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 5cb8536e6fb209549ba60cc682a60df5
+  - enabled: 1
+    path: Assets/Scenes/menu2.unity
+    guid: b2db683feb3af2846b498cf3cbfca82b
+  - enabled: 1
+    path: Assets/Scenes/kayit.unity
+    guid: 2e853e15cd10de940b627765ff8a2012
+  - enabled: 1
+    path: Assets/Scenes/menu0.unity
+    guid: 4f77795839d204442a04fadf34424ef5
+  - enabled: 1
+    path: Assets/Scenes/giris.unity
+    guid: 82393128c14a7a14abfd679e85807218
+  - enabled: 1
+    path: Assets/Scenes/mavi_haftasi.unity
+    guid: c0d33346261b9bb4298788fe4d6e569c
+  - enabled: 1
+    path: Assets/Scenes/yesil_haftasi.unity
+    guid: 40df1b1a473bcfc46a750543dd7afda9
+  - enabled: 1
+    path: Assets/Scenes/mor_haftasi.unity
+    guid: 273d18c2b499a8c4f93abc4f37b284d0
+  - enabled: 1
+    path: Assets/Scenes/kirmizi_haftasi.unity
+    guid: 740565084bd8f2142b2e5f58e85224d9
+  - enabled: 1
+    path: Assets/Scenes/turuncu_haftasi.unity
+    guid: 3f4668ac97497eb4182bd1e4302d0c01
+  - enabled: 1
+    path: Assets/Scenes/sari_haftasi.unity
+    guid: b8f5bca53f5c5c14eaf65d682b65922e
+  - enabled: 1
+    path: Assets/Scenes/pembe_haftasi.unity
+    guid: 1a0c9857b900c8c44b820c7b74c91403
+  - enabled: 1
+    path: Assets/Scenes/kahverengi_haftasi.unity
+    guid: 95d7e8da889648d47ba620b289002933
+  - enabled: 1
+    path: Assets/Scenes/siyah_haftasi.unity
+    guid: 4b31b607061c7b148a7cb65ee1189872
+  m_configObjects: {}

@@ -1,0 +1,2123 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.985; Version 2009; 64bit' Language: 'tr' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/murat/colorme
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60025
+Successfully changed project path to: C:/Users/murat/colorme
+C:/Users/murat/colorme
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/murat/colorme/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002712 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001211 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 54.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1864 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 2.932800 ms (FindLiveObjects: 0.298700 ms CreateObjectMapping: 0.297000 ms MarkObjects: 2.163300 ms  DeleteObjects: 0.172200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Kıpkırmızı
+  artifactKey: Guid(0844359a230de7c49bfe4ce6b15d6052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kıpkırmızı using Guid(0844359a230de7c49bfe4ce6b15d6052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17e7aa2e395b1bd97680fab99343c6a') in 0.012162 seconds
+  Import took 0.017902 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001361 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.440 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 3.261400 ms (FindLiveObjects: 0.229100 ms CreateObjectMapping: 0.090900 ms MarkObjects: 2.794400 ms  DeleteObjects: 0.145200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1557.521717 seconds.
+  path: Assets/Mosmor
+  artifactKey: Guid(e91b34c7087295a438cf38ddc6ac7c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor using Guid(e91b34c7087295a438cf38ddc6ac7c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1160779f7c31cb59987f8b4cc636b314') in 0.016844 seconds
+  Import took 0.023178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.242141 seconds.
+  path: Assets/Mosmor/Soru4
+  artifactKey: Guid(1e7c07781f16f614e99045b3ef54eb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru4 using Guid(1e7c07781f16f614e99045b3ef54eb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18ee5e7f877a67daa63aa4d134dabef') in 0.009349 seconds
+  Import took 0.014725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.079501 seconds.
+  path: Assets/Mosmor/Soru1/patlican_kirmizi.png
+  artifactKey: Guid(365da88b5c7dfc341b5d38153cc30153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru1/patlican_kirmizi.png using Guid(365da88b5c7dfc341b5d38153cc30153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811f5dbccefa28339e8d147a826f987e') in 0.203295 seconds
+  Import took 0.208028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Mosmor/Soru1/patlican_mavi.png
+  artifactKey: Guid(1fba3da69f938b642ae081a307039afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru1/patlican_mavi.png using Guid(1fba3da69f938b642ae081a307039afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a2d157ebbb84898cbfdd899b9d5d51') in 0.035257 seconds
+  Import took 0.040778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Mosmor/Soru1/patlican_mor.png
+  artifactKey: Guid(d64c90c057c11524ba73c62e100f52be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru1/patlican_mor.png using Guid(d64c90c057c11524ba73c62e100f52be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e8e85283a04080073a5ceee23918c1') in 0.032824 seconds
+  Import took 0.040956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Mosmor/Soru1/patlican_sari.png
+  artifactKey: Guid(0325db050e1f5bf48b5e11a2a31a1a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru1/patlican_sari.png using Guid(0325db050e1f5bf48b5e11a2a31a1a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e1df1b072ad8f490d00bb4c684845d') in 0.031578 seconds
+  Import took 0.037130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.428779 seconds.
+  path: Assets/Mosmor/Soru2/balon_kirmizi.png
+  artifactKey: Guid(7a61ffc107916c34db4509d3cd68f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru2/balon_kirmizi.png using Guid(7a61ffc107916c34db4509d3cd68f58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15b37f6ce286e16becb2cdc0a2319b9') in 0.018824 seconds
+  Import took 0.023117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Mosmor/Soru2/balon_mor.png
+  artifactKey: Guid(2501e6d61ce4fcf44a6ccba17fe02b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru2/balon_mor.png using Guid(2501e6d61ce4fcf44a6ccba17fe02b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc479fec02ae718772879be0378afdf') in 0.027244 seconds
+  Import took 0.033151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Mosmor/Soru2/balon_mavi.png
+  artifactKey: Guid(4343e39bba878224bb5dc774789666ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru2/balon_mavi.png using Guid(4343e39bba878224bb5dc774789666ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d662c4102e84b437580c2bca9f80283') in 0.034304 seconds
+  Import took 0.042709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Mosmor/Soru2/balon_yesil.png
+  artifactKey: Guid(e1e6e312caa1d2b43aad0df00afbe713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru2/balon_yesil.png using Guid(e1e6e312caa1d2b43aad0df00afbe713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d542852dbe7aadb8ec80e26d6f344bb') in 0.021425 seconds
+  Import took 0.027427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006386 seconds.
+  path: Assets/Mosmor/Soru2/balon_yesil.png
+  artifactKey: Guid(e1e6e312caa1d2b43aad0df00afbe713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru2/balon_yesil.png using Guid(e1e6e312caa1d2b43aad0df00afbe713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d542852dbe7aadb8ec80e26d6f344bb') in 0.015811 seconds
+  Import took 0.020367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.423965 seconds.
+  path: Assets/Mosmor/Soru3/ahtapot_mavi.png
+  artifactKey: Guid(54bef1f7543d70a45bc764bb5bd4c59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru3/ahtapot_mavi.png using Guid(54bef1f7543d70a45bc764bb5bd4c59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324abd31fd244b93cbbcd28f4ae3723d') in 0.017726 seconds
+  Import took 0.022262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Mosmor/Soru3/ahtapot_mor.png
+  artifactKey: Guid(57f5aa89bfdf8cc4bbad6f0dabce00e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru3/ahtapot_mor.png using Guid(57f5aa89bfdf8cc4bbad6f0dabce00e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5b9f65cc530b8f063ea2b37ad629bd') in 0.019782 seconds
+  Import took 0.024105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Mosmor/Soru3/ahtapot_yesil.png
+  artifactKey: Guid(39bed602e72c37041b977eadeccd8400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru3/ahtapot_yesil.png using Guid(39bed602e72c37041b977eadeccd8400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072365e9d8006092d0c97524647e617e') in 0.022302 seconds
+  Import took 0.029686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Mosmor/Soru3/ahtapot_sari.png
+  artifactKey: Guid(00390fc4d9da2684496ecdfa20671126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru3/ahtapot_sari.png using Guid(00390fc4d9da2684496ecdfa20671126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be480ac0d9fefde7a27528087bb457e7') in 0.022531 seconds
+  Import took 0.029181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022023 seconds.
+  path: Assets/Mosmor/Soru3/ahtapot_sari.png
+  artifactKey: Guid(00390fc4d9da2684496ecdfa20671126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru3/ahtapot_sari.png using Guid(00390fc4d9da2684496ecdfa20671126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be480ac0d9fefde7a27528087bb457e7') in 0.017709 seconds
+  Import took 0.022641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.031131 seconds.
+  path: Assets/Mosmor/Soru4/uzum_kirmizi.png
+  artifactKey: Guid(cdfe5bc167a81294d831bcaa1a591ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru4/uzum_kirmizi.png using Guid(cdfe5bc167a81294d831bcaa1a591ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd741c1b66e2d8521e6e60b10e4b1b37c') in 0.017223 seconds
+  Import took 0.022819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Mosmor/Soru4/uzum_mor.png
+  artifactKey: Guid(d71c058e06555a246b79984977d86b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru4/uzum_mor.png using Guid(d71c058e06555a246b79984977d86b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ddfec66b0b30f744fb5936d1609a9da') in 0.022926 seconds
+  Import took 0.028269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Mosmor/Soru4/uzum_yesil.png
+  artifactKey: Guid(a96c2e65ac24aff49bf794fd41b5011b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru4/uzum_yesil.png using Guid(a96c2e65ac24aff49bf794fd41b5011b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00201748c8c3d8c148acff51a3d910a5') in 0.034774 seconds
+  Import took 0.038654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Mosmor/Soru4/uzum_mavi.png
+  artifactKey: Guid(d9a951e1970cc154f87be9866c088095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru4/uzum_mavi.png using Guid(d9a951e1970cc154f87be9866c088095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28df4bd312e7afba1c14b3cec958ed50') in 0.039192 seconds
+  Import took 0.044956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.905551 seconds.
+  path: Assets/Mosmor/Soru5/top_kirmizi.png
+  artifactKey: Guid(c2508a8fdd19d144082e7e80615a0d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru5/top_kirmizi.png using Guid(c2508a8fdd19d144082e7e80615a0d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12aa0ec85b1d72fed7c4deac2b84a6f5') in 0.019847 seconds
+  Import took 0.025345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Mosmor/Soru5/top_mor.png
+  artifactKey: Guid(2a776a3bcb75f8f44a7f550546c1e0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru5/top_mor.png using Guid(2a776a3bcb75f8f44a7f550546c1e0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5215aefe07ce232aa84aa2132ea700c3') in 0.021541 seconds
+  Import took 0.026671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Mosmor/Soru5/top_turuncu.png
+  artifactKey: Guid(48ff536a347210048b8b311f2565a16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru5/top_turuncu.png using Guid(48ff536a347210048b8b311f2565a16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71ab11960fd5ec1ec450a9d6e7cf1f1') in 0.031484 seconds
+  Import took 0.037052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Mosmor/Soru5/top_sari.png
+  artifactKey: Guid(3d873d23bfcc11e45be8f8f28160ff6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mosmor/Soru5/top_sari.png using Guid(3d873d23bfcc11e45be8f8f28160ff6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0d2f65ada0e19498017d22e3daa697') in 0.029470 seconds
+  Import took 0.033633 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 2.794900 ms (FindLiveObjects: 0.239700 ms CreateObjectMapping: 0.104700 ms MarkObjects: 2.298500 ms  DeleteObjects: 0.150400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.767936 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfeea49082d79dda46bfb2a49d1abb9f') in 0.030214 seconds
+  Import took 0.035780 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.133 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 2.456600 ms (FindLiveObjects: 0.278100 ms CreateObjectMapping: 0.091300 ms MarkObjects: 1.961400 ms  DeleteObjects: 0.124400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4842.998246 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc0506a4966113b5f4cd6d5e295085d') in 0.048471 seconds
+  Import took 0.055350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.476519 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ce4924a2c877697d28615a1cf9c1a0') in 0.012323 seconds
+  Import took 0.018400 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.466 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 3.093600 ms (FindLiveObjects: 0.240300 ms CreateObjectMapping: 0.106800 ms MarkObjects: 2.571500 ms  DeleteObjects: 0.173600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.925667 seconds.
+  path: Assets/Kipkirmizi/Soru1/top_kirmizi.png
+  artifactKey: Guid(58a77d608d0a802408a1123f344e1163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru1/top_kirmizi.png using Guid(58a77d608d0a802408a1123f344e1163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b051916424533b69c2e8432e5e9794') in 0.099755 seconds
+  Import took 0.107214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Kipkirmizi/Soru1/top_turuncu.png
+  artifactKey: Guid(25a43fa3d9771e346a8d7cd731c35649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru1/top_turuncu.png using Guid(25a43fa3d9771e346a8d7cd731c35649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3028a8c2b179f72b5b1c29441251cd') in 0.025186 seconds
+  Import took 0.030085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Kipkirmizi/Soru1/top_sari.png
+  artifactKey: Guid(99feb4e0d97b18e4ca786854a776319b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru1/top_sari.png using Guid(99feb4e0d97b18e4ca786854a776319b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7375fe34de8c0cd11302fa31fd85d62') in 0.035353 seconds
+  Import took 0.040185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Kipkirmizi/Soru1/top_mor.png
+  artifactKey: Guid(62869c629093b6547864c95f7c6b9970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru1/top_mor.png using Guid(62869c629093b6547864c95f7c6b9970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48703e5b7a1657ae5cf1334166ba33fe') in 0.024804 seconds
+  Import took 0.031830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001852 seconds.
+  path: Assets/Kipkirmizi/Soru1/top_sari.png
+  artifactKey: Guid(99feb4e0d97b18e4ca786854a776319b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru1/top_sari.png using Guid(99feb4e0d97b18e4ca786854a776319b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7375fe34de8c0cd11302fa31fd85d62') in 0.016606 seconds
+  Import took 0.021058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.878488 seconds.
+  path: Assets/Kipkirmizi/Soru2/avocado_mor.png
+  artifactKey: Guid(aa19cbbde1bdc854f865e9ce1f74c5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru2/avocado_mor.png using Guid(aa19cbbde1bdc854f865e9ce1f74c5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5046401b74d120ec6a96e1c068b46c') in 0.020835 seconds
+  Import took 0.028645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Kipkirmizi/Soru2/avocado_yesil.png
+  artifactKey: Guid(7c597575feca4d74ba257093a82cf790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru2/avocado_yesil.png using Guid(7c597575feca4d74ba257093a82cf790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba07aa36897c3fa57b1b73178c6d26f2') in 0.021956 seconds
+  Import took 0.026547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.213981 seconds.
+  path: Assets/Kipkirmizi/Soru2/avocado_kirmizi.png
+  artifactKey: Guid(b49a86427b7cce24a81412eda8ce9b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru2/avocado_kirmizi.png using Guid(b49a86427b7cce24a81412eda8ce9b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741890bafae56561c64a011c67db01c1') in 0.026306 seconds
+  Import took 0.031718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.148444 seconds.
+  path: Assets/Kipkirmizi/Soru3/tisort_kirmizi.png
+  artifactKey: Guid(f8e8c110be34f1e4c95e4f41424c1a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru3/tisort_kirmizi.png using Guid(f8e8c110be34f1e4c95e4f41424c1a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811c09748b1d28500dcb722d222e66ec') in 0.026985 seconds
+  Import took 0.032924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Kipkirmizi/Soru3/tisort_mor.png
+  artifactKey: Guid(92519b3dbe7e0844682e2b6ea506084e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru3/tisort_mor.png using Guid(92519b3dbe7e0844682e2b6ea506084e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a459b5a7ef4dea3009d592f968b21e') in 0.020392 seconds
+  Import took 0.026572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Kipkirmizi/Soru3/tisort_mavi.png
+  artifactKey: Guid(e5a7a951b34c1be4a96f834076e0282b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru3/tisort_mavi.png using Guid(e5a7a951b34c1be4a96f834076e0282b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f374daa6d8eb823ce8e8940a822aaf67') in 0.033834 seconds
+  Import took 0.039126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Kipkirmizi/Soru3/tisort_sari.png
+  artifactKey: Guid(7452c223ac919ff4a84e2e3d7ad6a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru3/tisort_sari.png using Guid(7452c223ac919ff4a84e2e3d7ad6a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a390d359e80a3cf6b7a001783d2ca7f') in 0.027215 seconds
+  Import took 0.032580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.985263 seconds.
+  path: Assets/Kipkirmizi/Soru4/patlican_kirmizi.png
+  artifactKey: Guid(e58b678a1b3d70a4c810829a80b669e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru4/patlican_kirmizi.png using Guid(e58b678a1b3d70a4c810829a80b669e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9a7849bf00fe7704de544da72ff220') in 0.023515 seconds
+  Import took 0.028410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Kipkirmizi/Soru4/patlican_sari.png
+  artifactKey: Guid(86162f9fe709b584982ee5f3f44f1c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru4/patlican_sari.png using Guid(86162f9fe709b584982ee5f3f44f1c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc67dd0a64880a75a8d066d34326f7ab') in 0.031790 seconds
+  Import took 0.037810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Kipkirmizi/Soru4/patlican_mavi.png
+  artifactKey: Guid(929a7c13ff7842044bb8d854bca58929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru4/patlican_mavi.png using Guid(929a7c13ff7842044bb8d854bca58929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5083215a36d179871dc823e67c4ea97') in 0.037236 seconds
+  Import took 0.044890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Kipkirmizi/Soru4/patlican_mor.png
+  artifactKey: Guid(0f2bc96310f8e994f9f50d5a3228ecfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru4/patlican_mor.png using Guid(0f2bc96310f8e994f9f50d5a3228ecfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ddcfb061b2ada10ad6187059c34cf3') in 0.026033 seconds
+  Import took 0.031189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004115 seconds.
+  path: Assets/Kipkirmizi/Soru4/patlican_mor.png
+  artifactKey: Guid(0f2bc96310f8e994f9f50d5a3228ecfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru4/patlican_mor.png using Guid(0f2bc96310f8e994f9f50d5a3228ecfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ddcfb061b2ada10ad6187059c34cf3') in 0.017551 seconds
+  Import took 0.024562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.589064 seconds.
+  path: Assets/Kipkirmizi/Soru5/kalem_kirmizi.png
+  artifactKey: Guid(c40fe8fac559c644aa9e7947eb8af470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru5/kalem_kirmizi.png using Guid(c40fe8fac559c644aa9e7947eb8af470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50108d52aa411cf934951e8c855e43b7') in 0.019699 seconds
+  Import took 0.026042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Kipkirmizi/Soru5/kalem_yesil.png
+  artifactKey: Guid(423aaa540d59130409989dab25a313db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru5/kalem_yesil.png using Guid(423aaa540d59130409989dab25a313db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb444388156b3575251e3e2c87c66b72') in 0.024620 seconds
+  Import took 0.030281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Kipkirmizi/Soru5/kalem_sari.png
+  artifactKey: Guid(1af59b09f1e060d4489dddac3e231d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru5/kalem_sari.png using Guid(1af59b09f1e060d4489dddac3e231d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a4b0b776cf3a8178c25773d3e9b6ee') in 0.032045 seconds
+  Import took 0.037271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Kipkirmizi/Soru5/kalem_mavi.png
+  artifactKey: Guid(9b9fc60cfa4fe6a4e8f3950df3b99715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru5/kalem_mavi.png using Guid(9b9fc60cfa4fe6a4e8f3950df3b99715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697ee89f4ac985fca99249f10feb6c3b') in 0.025360 seconds
+  Import took 0.030310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018328 seconds.
+  path: Assets/Kipkirmizi/Soru5/kalem_sari.png
+  artifactKey: Guid(1af59b09f1e060d4489dddac3e231d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru5/kalem_sari.png using Guid(1af59b09f1e060d4489dddac3e231d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a4b0b776cf3a8178c25773d3e9b6ee') in 0.018608 seconds
+  Import took 0.024307 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 5.288300 ms (FindLiveObjects: 2.369300 ms CreateObjectMapping: 0.263500 ms MarkObjects: 2.499600 ms  DeleteObjects: 0.153400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.143582 seconds.
+  path: Assets/Kipkirmizi/Soru1
+  artifactKey: Guid(1817c695c2776cd4381b615a917f18f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kipkirmizi/Soru1 using Guid(1817c695c2776cd4381b615a917f18f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aff86802f7d706090caff64998b784c') in 0.018682 seconds
+  Import took 0.025491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.555397 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e886bc1bd452d3acdf4601e3048d93') in 0.026528 seconds
+  Import took 0.031231 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.425 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2338.
+Total: 3.433100 ms (FindLiveObjects: 0.235300 ms CreateObjectMapping: 0.088800 ms MarkObjects: 2.950600 ms  DeleteObjects: 0.156800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.109346 seconds.
+  path: Assets/Tupturuncu/Soru1/denizyildizi_mavi.png
+  artifactKey: Guid(28b6b1cbe71889e46b74756d70b8417b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru1/denizyildizi_mavi.png using Guid(28b6b1cbe71889e46b74756d70b8417b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635c1eee3cb9cbcad61296e3fa8d1bfa') in 0.082765 seconds
+  Import took 0.087815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Tupturuncu/Soru1/denizyildizi_turuncu.png
+  artifactKey: Guid(d095b3728426a8445a3700d094603c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru1/denizyildizi_turuncu.png using Guid(d095b3728426a8445a3700d094603c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca81897615c38c4cf6ba3c4974ed985') in 0.026365 seconds
+  Import took 0.031236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Tupturuncu/Soru1/denizyildizi_pembe.png
+  artifactKey: Guid(36b79d8daf0c2fb4dbd3a77e7bb90c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru1/denizyildizi_pembe.png using Guid(36b79d8daf0c2fb4dbd3a77e7bb90c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9027e9a2bd469e1f8f63e752d659552') in 0.036695 seconds
+  Import took 0.042416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Tupturuncu/Soru1/denizyildizi_yesil.png
+  artifactKey: Guid(0c845d2295b076541909310629e95f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru1/denizyildizi_yesil.png using Guid(0c845d2295b076541909310629e95f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaac32c4ab5e20bf2c41cb45fe01a2c3') in 0.035299 seconds
+  Import took 0.040318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.045002 seconds.
+  path: Assets/Tupturuncu/Soru2/havuc_mavi.png
+  artifactKey: Guid(be889e168ea8b3d4e903f7eab4e65b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru2/havuc_mavi.png using Guid(be889e168ea8b3d4e903f7eab4e65b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf654efafa02ae4b07d2eb249ae7c52') in 0.031587 seconds
+  Import took 0.036318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Tupturuncu/Soru2/havuc_sari.png
+  artifactKey: Guid(02cbf3cd3a7f2264dafe24655986182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru2/havuc_sari.png using Guid(02cbf3cd3a7f2264dafe24655986182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac9ea6eb6b11a48a7b1716924c9583f') in 0.103886 seconds
+  Import took 0.109967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Tupturuncu/Soru2/havuc_turuncu.png
+  artifactKey: Guid(8e5be07ba2e0438419938ce55228b13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru2/havuc_turuncu.png using Guid(8e5be07ba2e0438419938ce55228b13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec5a47dde71615b690bc3502a8a3603') in 0.040301 seconds
+  Import took 0.048193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Tupturuncu/Soru2/havuc_yesil.png
+  artifactKey: Guid(303cb97363179ef4c9f4e02d21cec740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru2/havuc_yesil.png using Guid(303cb97363179ef4c9f4e02d21cec740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75d40c565f51ea7a607a7a55b62b2b3') in 0.041157 seconds
+  Import took 0.047952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Tupturuncu/Soru2/havuc_turuncu.png
+  artifactKey: Guid(8e5be07ba2e0438419938ce55228b13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru2/havuc_turuncu.png using Guid(8e5be07ba2e0438419938ce55228b13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec5a47dde71615b690bc3502a8a3603') in 0.016309 seconds
+  Import took 0.022729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003971 seconds.
+  path: Assets/Tupturuncu/Soru2/havuc_yesil.png
+  artifactKey: Guid(303cb97363179ef4c9f4e02d21cec740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru2/havuc_yesil.png using Guid(303cb97363179ef4c9f4e02d21cec740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75d40c565f51ea7a607a7a55b62b2b3') in 0.015331 seconds
+  Import took 0.022568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.790259 seconds.
+  path: Assets/Tupturuncu/Soru3/portakal_kirmizi.png
+  artifactKey: Guid(4888cd2f96e34b44eaeec0d9d57a24c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru3/portakal_kirmizi.png using Guid(4888cd2f96e34b44eaeec0d9d57a24c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c215bd3263fe7d61f7e81ce92f5cf8d4') in 0.022641 seconds
+  Import took 0.037670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Tupturuncu/Soru3/portakal_turuncu.png
+  artifactKey: Guid(20cdcd57c9d87b34aa760497c5de0b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru3/portakal_turuncu.png using Guid(20cdcd57c9d87b34aa760497c5de0b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044cf767adc3a0e09a763f8763b479f2') in 0.047463 seconds
+  Import took 0.133813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Tupturuncu/Soru3/portakal_yesil.png
+  artifactKey: Guid(4b74593f80165d144b55134b980c6987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru3/portakal_yesil.png using Guid(4b74593f80165d144b55134b980c6987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d042f64b41c86953d7b46261acd18ca') in 0.024756 seconds
+  Import took 0.031734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Tupturuncu/Soru3/portakal_mavi.png
+  artifactKey: Guid(07da67d28ed6fbc47836247b1f5600ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru3/portakal_mavi.png using Guid(07da67d28ed6fbc47836247b1f5600ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbb679b9090ac7f6cc838a0d0d81c44') in 0.031773 seconds
+  Import took 0.037812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.678484 seconds.
+  path: Assets/Tupturuncu/Soru4/top_kirmizi.png
+  artifactKey: Guid(facc90e4cab3261458014b3844961cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru4/top_kirmizi.png using Guid(facc90e4cab3261458014b3844961cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5f1e7a69c6bf139eaf784e4f98467b') in 0.019698 seconds
+  Import took 0.024191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Tupturuncu/Soru4/top_mor.png
+  artifactKey: Guid(1971b3fcdb815d741975d2cdcdfa1fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru4/top_mor.png using Guid(1971b3fcdb815d741975d2cdcdfa1fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df35c496618c010f427ac786ae2b9c9') in 0.031656 seconds
+  Import took 0.037990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Tupturuncu/Soru4/top_sari.png
+  artifactKey: Guid(bf5bbbaa8692c1146a098947ce3c8a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru4/top_sari.png using Guid(bf5bbbaa8692c1146a098947ce3c8a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36c4a97cf72c103f2cab5730b35e166') in 0.025729 seconds
+  Import took 0.033163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Tupturuncu/Soru4/top_turuncu.png
+  artifactKey: Guid(3a6bad02a34cbae4cbb4d0df807ec6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru4/top_turuncu.png using Guid(3a6bad02a34cbae4cbb4d0df807ec6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b06ebd5749431166502a63a76a20e597') in 0.019723 seconds
+  Import took 0.024619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017637 seconds.
+  path: Assets/Tupturuncu/Soru4/top_turuncu.png
+  artifactKey: Guid(3a6bad02a34cbae4cbb4d0df807ec6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru4/top_turuncu.png using Guid(3a6bad02a34cbae4cbb4d0df807ec6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b06ebd5749431166502a63a76a20e597') in 0.016670 seconds
+  Import took 0.023309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.535436 seconds.
+  path: Assets/Tupturuncu/Soru5/balkabagi_kirmizi.png
+  artifactKey: Guid(11843f2317a288c4aa02cdbafb37aa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru5/balkabagi_kirmizi.png using Guid(11843f2317a288c4aa02cdbafb37aa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b0235ef1d2d34970cfe0162dee98ef') in 0.022985 seconds
+  Import took 0.027712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Tupturuncu/Soru5/balkabagi_sari.png
+  artifactKey: Guid(cd49c5550d51dde43ba8997ce419505a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru5/balkabagi_sari.png using Guid(cd49c5550d51dde43ba8997ce419505a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8136994b124a472a9473cee4275926') in 0.044980 seconds
+  Import took 0.051332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Tupturuncu/Soru5/balkabagi_turuncu.png
+  artifactKey: Guid(cbddb13748cdd634f88aaa9cd454b0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru5/balkabagi_turuncu.png using Guid(cbddb13748cdd634f88aaa9cd454b0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dedbb51f66a79e77a8e2eefd497156b') in 0.025946 seconds
+  Import took 0.030751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Tupturuncu/Soru5/balkabagi_mavi.png
+  artifactKey: Guid(b158e0fad0c04604fb6018e5d6da2b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tupturuncu/Soru5/balkabagi_mavi.png using Guid(b158e0fad0c04604fb6018e5d6da2b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ecbf551f1c3792719d7b9ac6ae7a70') in 0.027687 seconds
+  Import took 0.033771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.139954 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1351ef93dc7ff5feeaa3a3294e6dcf1f') in 0.011413 seconds
+  Import took 0.016897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.922908 seconds.
+  path: Assets/Sapsari/Soru1/ari_kirmizi.png
+  artifactKey: Guid(5db4f928620848842a960b778ea61f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru1/ari_kirmizi.png using Guid(5db4f928620848842a960b778ea61f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24869540f370806a3d8a9603ca93fc1a') in 0.023494 seconds
+  Import took 0.028049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Sapsari/Soru1/ari_pembe.png
+  artifactKey: Guid(2fc9416fad823a8469ca74f13e360d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru1/ari_pembe.png using Guid(2fc9416fad823a8469ca74f13e360d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b70d5fc9d2013e7ccee42d98f82b5f4') in 0.028134 seconds
+  Import took 0.032904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Sapsari/Soru1/ari_mavi.png
+  artifactKey: Guid(5d99302f2dbc5984f81089be5c09a2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru1/ari_mavi.png using Guid(5d99302f2dbc5984f81089be5c09a2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff6706c3bb0ce1c9b8e42e2b08e9e34') in 0.039947 seconds
+  Import took 0.045123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Sapsari/Soru1/ari_sari.png
+  artifactKey: Guid(7a7d0ac6c1e9f7c409f5d92e8d294afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru1/ari_sari.png using Guid(7a7d0ac6c1e9f7c409f5d92e8d294afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e12561ea197e5a92b83e8a9d676c05d') in 0.028202 seconds
+  Import took 0.035555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011699 seconds.
+  path: Assets/Sapsari/Soru1/ari_sari.png
+  artifactKey: Guid(7a7d0ac6c1e9f7c409f5d92e8d294afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru1/ari_sari.png using Guid(7a7d0ac6c1e9f7c409f5d92e8d294afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e12561ea197e5a92b83e8a9d676c05d') in 0.017691 seconds
+  Import took 0.022360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.134020 seconds.
+  path: Assets/Sapsari/Soru2/muz_kirmizi.png
+  artifactKey: Guid(c7465c4c34a2aef4e8c222281dca4338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru2/muz_kirmizi.png using Guid(c7465c4c34a2aef4e8c222281dca4338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529f8c6ab2a47e29cb95f3ce7b246b56') in 0.023429 seconds
+  Import took 0.029340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Sapsari/Soru2/muz_mavi.png
+  artifactKey: Guid(972e6e817260e0942b59c5af270d27f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru2/muz_mavi.png using Guid(972e6e817260e0942b59c5af270d27f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdff0de810f9fcab9e2423db1ec5d284') in 0.034863 seconds
+  Import took 0.040552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Sapsari/Soru2/muz_yesil.png
+  artifactKey: Guid(ea50f915e92404d4895e7a9764de97f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru2/muz_yesil.png using Guid(ea50f915e92404d4895e7a9764de97f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fe1822d30802a947225a8c5f13b2bf') in 0.036346 seconds
+  Import took 0.041423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sapsari/Soru2/muz_sari.png
+  artifactKey: Guid(fae82424bf18a7844baf928d736da204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru2/muz_sari.png using Guid(fae82424bf18a7844baf928d736da204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfb615e9248bcab339b3bd41717a6b0') in 0.026069 seconds
+  Import took 0.031790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007907 seconds.
+  path: Assets/Sapsari/Soru2/muz_yesil.png
+  artifactKey: Guid(ea50f915e92404d4895e7a9764de97f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru2/muz_yesil.png using Guid(ea50f915e92404d4895e7a9764de97f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fe1822d30802a947225a8c5f13b2bf') in 0.017947 seconds
+  Import took 0.024419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.078963 seconds.
+  path: Assets/Sapsari/Soru3/kalem_kirmizi.png
+  artifactKey: Guid(5b4b3455c0d3f4043a0fb56a68bad997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru3/kalem_kirmizi.png using Guid(5b4b3455c0d3f4043a0fb56a68bad997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09668fd562db25b74cf2e09da8f8def') in 0.019100 seconds
+  Import took 0.024549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Sapsari/Soru3/kalem_mavi.png
+  artifactKey: Guid(d5ed80a422d5607478c86a2eee9ca5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru3/kalem_mavi.png using Guid(d5ed80a422d5607478c86a2eee9ca5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d929158a935c51f8b17e0217c0de1e') in 0.015862 seconds
+  Import took 0.020366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sapsari/Soru3/kalem_yesil.png
+  artifactKey: Guid(3169d530c9d9e0249986cc13c8d716bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru3/kalem_yesil.png using Guid(3169d530c9d9e0249986cc13c8d716bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189d59987a408a305ef652aa2f7c422b') in 0.015805 seconds
+  Import took 0.020876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Sapsari/Soru3/kalem_sari.png
+  artifactKey: Guid(2aa8a06a66bd8f946bc0af25cf72f58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru3/kalem_sari.png using Guid(2aa8a06a66bd8f946bc0af25cf72f58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45a41196af2dc4d74ed507faaede53f') in 0.018678 seconds
+  Import took 0.025612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.335307 seconds.
+  path: Assets/Sapsari/Soru4/ordek_kirmizi.png
+  artifactKey: Guid(7f945cfd6c132454a972ead07b28f587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru4/ordek_kirmizi.png using Guid(7f945cfd6c132454a972ead07b28f587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ff66f505f5df395eea9cb4fa8348aa') in 0.024318 seconds
+  Import took 0.030135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Sapsari/Soru4/ordek_sari.png
+  artifactKey: Guid(a0568c8cabaf1b747b09387afd40b9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru4/ordek_sari.png using Guid(a0568c8cabaf1b747b09387afd40b9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4adad7c85e2a03d94dcb31864ef82603') in 0.036609 seconds
+  Import took 0.041809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Sapsari/Soru4/ordek_pembe.png
+  artifactKey: Guid(01346e42dcefa7642a05b1a7848ccf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru4/ordek_pembe.png using Guid(01346e42dcefa7642a05b1a7848ccf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728de1d64128777f40a6cdf580344a90') in 0.030348 seconds
+  Import took 0.034856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Sapsari/Soru4/ordek_mavi.png
+  artifactKey: Guid(d8184803e1f2a7048b6b3271a532ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru4/ordek_mavi.png using Guid(d8184803e1f2a7048b6b3271a532ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae239b66204170b6c568b67b6656002') in 0.034108 seconds
+  Import took 0.038837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005030 seconds.
+  path: Assets/Sapsari/Soru4/ordek_pembe.png
+  artifactKey: Guid(01346e42dcefa7642a05b1a7848ccf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru4/ordek_pembe.png using Guid(01346e42dcefa7642a05b1a7848ccf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728de1d64128777f40a6cdf580344a90') in 0.017088 seconds
+  Import took 0.022773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.925698 seconds.
+  path: Assets/Sapsari/Soru5/ananas_kirmizi.png
+  artifactKey: Guid(9f1ad4bc8f92d3f4a93852eae9e932f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru5/ananas_kirmizi.png using Guid(9f1ad4bc8f92d3f4a93852eae9e932f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8effdb47432b6e04aef4faedce4bed') in 0.041131 seconds
+  Import took 0.048496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sapsari/Soru5/ananas_sari.png
+  artifactKey: Guid(89ede81511ae3e341bae78481f19244a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru5/ananas_sari.png using Guid(89ede81511ae3e341bae78481f19244a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5e1de1d87853345fe9df15429b880f') in 0.036113 seconds
+  Import took 0.044440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Sapsari/Soru5/ananas_yesil.png
+  artifactKey: Guid(cee627ca93ed562429bc1e75e9ffcf69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru5/ananas_yesil.png using Guid(cee627ca93ed562429bc1e75e9ffcf69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929ba949132e2bc5869177845f2a2d16') in 0.043657 seconds
+  Import took 0.051393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Sapsari/Soru5/ananas_mavi.png
+  artifactKey: Guid(edf9d018193ab8f4b8b17e5c49f32fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sapsari/Soru5/ananas_mavi.png using Guid(edf9d018193ab8f4b8b17e5c49f32fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4042bb9aef2d466009746643561590ac') in 0.053291 seconds
+  Import took 0.060972 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.881 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 3.304100 ms (FindLiveObjects: 0.254900 ms CreateObjectMapping: 0.121900 ms MarkObjects: 2.714500 ms  DeleteObjects: 0.210900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001553 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 3.098700 ms (FindLiveObjects: 0.392300 ms CreateObjectMapping: 0.185800 ms MarkObjects: 2.357100 ms  DeleteObjects: 0.160700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002299 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.510 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 3.107700 ms (FindLiveObjects: 0.255000 ms CreateObjectMapping: 0.106400 ms MarkObjects: 2.576900 ms  DeleteObjects: 0.167600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.181158 seconds.
+  path: Assets/Scenes/menu2.unity
+  artifactKey: Guid(b2db683feb3af2846b498cf3cbfca82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu2.unity using Guid(b2db683feb3af2846b498cf3cbfca82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c944adc3b93323e986ded970c9dea45d') in 0.025394 seconds
+  Import took 0.029431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.503654 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d588dd60d31fe46309534256cb8afb') in 0.005812 seconds
+  Import took 0.011021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.289542 seconds.
+  path: Assets/Pespembe/Soru1/denizyildizi_mavi.png
+  artifactKey: Guid(21133b43594d0314b8c6c5f282949f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru1/denizyildizi_mavi.png using Guid(21133b43594d0314b8c6c5f282949f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41458ac47f4316571dda5d47adc319a') in 5.241740 seconds
+  Import took 5.252851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Pespembe/Soru1/denizyildizi_pembe.png
+  artifactKey: Guid(516abbababaa9ef4294785a88625c431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru1/denizyildizi_pembe.png using Guid(516abbababaa9ef4294785a88625c431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa838fe25ee58a99026de30ee5ccf5f') in 0.069735 seconds
+  Import took 0.081138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Pespembe/Soru1/denizyildizi_yesil.png
+  artifactKey: Guid(c33923de12c04ba4eb0006b3575bfd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru1/denizyildizi_yesil.png using Guid(c33923de12c04ba4eb0006b3575bfd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0804e9400774ac387ae1a90bd24cbfb6') in 0.034445 seconds
+  Import took 0.053592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Pespembe/Soru1/denizyildizi_turuncu.png
+  artifactKey: Guid(2787ca1071f745c4e8a63cdeebe36d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru1/denizyildizi_turuncu.png using Guid(2787ca1071f745c4e8a63cdeebe36d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5f9c8a424afc59ef2855348642d47e') in 0.050466 seconds
+  Import took 0.063229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.492291 seconds.
+  path: Assets/Pespembe/Soru2/ahtapot_mavi.png
+  artifactKey: Guid(b223922bd2183ca439f383295c5f3feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru2/ahtapot_mavi.png using Guid(b223922bd2183ca439f383295c5f3feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78112e0db452d9948825c46b6634f177') in 0.021557 seconds
+  Import took 0.027803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Pespembe/Soru2/ahtapot_pembe.png
+  artifactKey: Guid(005805cf8dce3b746aabb5225f75aa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru2/ahtapot_pembe.png using Guid(005805cf8dce3b746aabb5225f75aa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c239594a04d995af3ef659df6e859a7') in 0.174255 seconds
+  Import took 0.180817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Pespembe/Soru2/ahtapot_sari.png
+  artifactKey: Guid(7d3b208d38073b249ba01b071c31e863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru2/ahtapot_sari.png using Guid(7d3b208d38073b249ba01b071c31e863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957e8fb9494fd26eea8cd5d11333aeab') in 0.034761 seconds
+  Import took 0.042151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Pespembe/Soru2/ahtapot_pembe.png
+  artifactKey: Guid(005805cf8dce3b746aabb5225f75aa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru2/ahtapot_pembe.png using Guid(005805cf8dce3b746aabb5225f75aa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c239594a04d995af3ef659df6e859a7') in 0.025194 seconds
+  Import took 0.032049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/Pespembe/Soru2/ahtapot_yesil.png
+  artifactKey: Guid(a50ae71e6e3e59149bbe4aa3ad39b6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru2/ahtapot_yesil.png using Guid(a50ae71e6e3e59149bbe4aa3ad39b6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fd340d96dd90bb3a3537cec3059632') in 0.066485 seconds
+  Import took 0.075929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Pespembe/Soru2/ahtapot_sari.png
+  artifactKey: Guid(7d3b208d38073b249ba01b071c31e863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru2/ahtapot_sari.png using Guid(7d3b208d38073b249ba01b071c31e863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957e8fb9494fd26eea8cd5d11333aeab') in 0.041420 seconds
+  Import took 0.048485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.355219 seconds.
+  path: Assets/Pespembe/Soru3/kedi_mavi.png
+  artifactKey: Guid(462213ab5b638c242a8e729b9932ed2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru3/kedi_mavi.png using Guid(462213ab5b638c242a8e729b9932ed2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741aa7efeca3eb4d8ca965dcd4058126') in 0.022311 seconds
+  Import took 0.028030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Pespembe/Soru3/kedi_yesil.png
+  artifactKey: Guid(7cc2c97fb9d58e140b1053ead3758aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru3/kedi_yesil.png using Guid(7cc2c97fb9d58e140b1053ead3758aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820311668805bb61ec611bfd502ad19b') in 0.022174 seconds
+  Import took 0.029473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Pespembe/Soru3/kedi_sari.png
+  artifactKey: Guid(6c192cdf320b85a4e8dd8b7f9a3cd824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru3/kedi_sari.png using Guid(6c192cdf320b85a4e8dd8b7f9a3cd824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4709d0c598c2c181280487601a0114') in 0.033426 seconds
+  Import took 0.038573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Pespembe/Soru3/kedi_pembe.png
+  artifactKey: Guid(f301ddfc90a555b46802ff716457eb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru3/kedi_pembe.png using Guid(f301ddfc90a555b46802ff716457eb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2d01d96b0859fb96d964cb2e49f629') in 0.024234 seconds
+  Import took 0.030001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028007 seconds.
+  path: Assets/Pespembe/Soru3/kedi_pembe.png
+  artifactKey: Guid(f301ddfc90a555b46802ff716457eb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru3/kedi_pembe.png using Guid(f301ddfc90a555b46802ff716457eb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2d01d96b0859fb96d964cb2e49f629') in 0.018331 seconds
+  Import took 0.023913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.509320 seconds.
+  path: Assets/Pespembe/Soru4/pamukseker_mavi.png
+  artifactKey: Guid(6dfd2401c1fb2b041855528123433d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru4/pamukseker_mavi.png using Guid(6dfd2401c1fb2b041855528123433d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feff75209c489f029459f5114f52624d') in 0.021828 seconds
+  Import took 0.028597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Pespembe/Soru4/pamukseker_pembe.png
+  artifactKey: Guid(3b6657fa7a3e6534ba199dcebcba8f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru4/pamukseker_pembe.png using Guid(3b6657fa7a3e6534ba199dcebcba8f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224d63d966cf98cb20ee9ed71e504376') in 0.064108 seconds
+  Import took 0.074007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Pespembe/Soru4/pamukseker_yesil.png
+  artifactKey: Guid(06a5a3320aa1aa246a574e57d03001a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru4/pamukseker_yesil.png using Guid(06a5a3320aa1aa246a574e57d03001a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a450459f11c6f5c463a7dbf26a5786c') in 0.093522 seconds
+  Import took 0.102245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001857 seconds.
+  path: Assets/Pespembe/Soru4/pamukseker_sari.png
+  artifactKey: Guid(d38137413820d4549ba79de6710c925b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru4/pamukseker_sari.png using Guid(d38137413820d4549ba79de6710c925b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b963aec0e54c300ca881bbc46efa2d') in 0.058846 seconds
+  Import took 0.074728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.443304 seconds.
+  path: Assets/Pespembe/Soru5/domuz_mavi.png
+  artifactKey: Guid(0bbbeda1427116d4193f18f764aefcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru5/domuz_mavi.png using Guid(0bbbeda1427116d4193f18f764aefcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc83508dad385dfe0ee1757e4c5cfd4') in 0.020277 seconds
+  Import took 0.024848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Pespembe/Soru5/domuz_sari.png
+  artifactKey: Guid(917f8c58a2b4ec04589074c11c451b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru5/domuz_sari.png using Guid(917f8c58a2b4ec04589074c11c451b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb65f5b413119f71857e106d9975032') in 0.026293 seconds
+  Import took 0.030431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Pespembe/Soru5/domuz_yesil.png
+  artifactKey: Guid(4e69385d982c7174ea629717162f6a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru5/domuz_yesil.png using Guid(4e69385d982c7174ea629717162f6a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380dfdc19f301ab95da0814c73d915a9') in 0.024629 seconds
+  Import took 0.030298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Pespembe/Soru5/domuz_pembe.png
+  artifactKey: Guid(31c56e81a06c26d40b08ec514d99863a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru5/domuz_pembe.png using Guid(31c56e81a06c26d40b08ec514d99863a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf3520408dee0332040157470d838c0') in 0.046918 seconds
+  Import took 0.052123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.492377 seconds.
+  path: Assets/Pespembe/Soru5
+  artifactKey: Guid(bd23fa19acf74aa4eb70ea94369dccc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pespembe/Soru5 using Guid(bd23fa19acf74aa4eb70ea94369dccc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ba500070689cd5c1574c6747b26f3a') in 0.026354 seconds
+  Import took 0.058820 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.380 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 3.153100 ms (FindLiveObjects: 0.230400 ms CreateObjectMapping: 0.099200 ms MarkObjects: 2.531100 ms  DeleteObjects: 0.290800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.872500 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8d3ba8a374e89c28527e6951b568ad') in 0.033421 seconds
+  Import took 0.038505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.103719 seconds.
+  path: Assets/Kapkahve/Soru1/balon_kahverengi.png
+  artifactKey: Guid(26faf0d064513374bb9d8324023ca953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru1/balon_kahverengi.png using Guid(26faf0d064513374bb9d8324023ca953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58d9396a6a2aa5b7e1f02a342636b2f') in 0.074071 seconds
+  Import took 0.078426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Kapkahve/Soru1/balon_kirmizi.png
+  artifactKey: Guid(20a4e2bd7a379c64c91e7ff686d3899c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru1/balon_kirmizi.png using Guid(20a4e2bd7a379c64c91e7ff686d3899c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ad10c0cfbc0c8296d2dab246f9d125') in 0.022110 seconds
+  Import took 0.026022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Kapkahve/Soru1/balon_yesil.png
+  artifactKey: Guid(5729419d24a4e3f4e95207f31188c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru1/balon_yesil.png using Guid(5729419d24a4e3f4e95207f31188c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1faeed411e3715dd2bca2aa2046a519c') in 0.028660 seconds
+  Import took 0.033614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Kapkahve/Soru1/balon_mor.png
+  artifactKey: Guid(e2604c8892b26f74c8898ac1f44b3b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru1/balon_mor.png using Guid(e2604c8892b26f74c8898ac1f44b3b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1655e84c09c05e762e2dfb00c505e10c') in 0.022158 seconds
+  Import took 0.026482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008811 seconds.
+  path: Assets/Kapkahve/Soru1/balon_yesil.png
+  artifactKey: Guid(5729419d24a4e3f4e95207f31188c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru1/balon_yesil.png using Guid(5729419d24a4e3f4e95207f31188c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1faeed411e3715dd2bca2aa2046a519c') in 0.017291 seconds
+  Import took 0.022158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.904917 seconds.
+  path: Assets/Kapkahve/Soru2/sapka_kahverengi.png
+  artifactKey: Guid(3da3c66310ca59f4a9cc44babbe541e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru2/sapka_kahverengi.png using Guid(3da3c66310ca59f4a9cc44babbe541e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4657605c71d2d807990bef8829166c20') in 0.018714 seconds
+  Import took 0.022995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Kapkahve/Soru2/sapka_mor.png
+  artifactKey: Guid(5b17e3919465066459c1b6d0c601e098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru2/sapka_mor.png using Guid(5b17e3919465066459c1b6d0c601e098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171ad183295ce2287219e9ffbaa3db59') in 0.027602 seconds
+  Import took 0.032548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Kapkahve/Soru2/top_yesil.png
+  artifactKey: Guid(085d2f9590026d74abd408cb2a369e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru2/top_yesil.png using Guid(085d2f9590026d74abd408cb2a369e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc450f4d718852b0eca12a53125ca7d') in 0.026700 seconds
+  Import took 0.031168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Kapkahve/Soru2/sapka_mavi.png
+  artifactKey: Guid(78f8088a7af623a4393afded6eb74652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru2/sapka_mavi.png using Guid(78f8088a7af623a4393afded6eb74652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d73ca24b0c0872a82cd5bd7003b4f1') in 0.024377 seconds
+  Import took 0.029540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003866 seconds.
+  path: Assets/Kapkahve/Soru2/top_yesil.png
+  artifactKey: Guid(085d2f9590026d74abd408cb2a369e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru2/top_yesil.png using Guid(085d2f9590026d74abd408cb2a369e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc450f4d718852b0eca12a53125ca7d') in 0.018110 seconds
+  Import took 0.023898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.420147 seconds.
+  path: Assets/Kapkahve/Soru3/kedi_kahverengi.png
+  artifactKey: Guid(e3c333440a6cbaa49a0f9df20ad22b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru3/kedi_kahverengi.png using Guid(e3c333440a6cbaa49a0f9df20ad22b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f74bd52084eb6b709cae7c2ba6eb9b') in 0.019797 seconds
+  Import took 0.023658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Kapkahve/Soru3/kedi_mavi.png
+  artifactKey: Guid(f8b729d08cf34f64fb62e524ea3dbeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru3/kedi_mavi.png using Guid(f8b729d08cf34f64fb62e524ea3dbeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711f27b0e6ead2d00a5019b369a89665') in 0.012988 seconds
+  Import took 0.016541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Kapkahve/Soru3/kedi_yesil.png
+  artifactKey: Guid(438c6b79e61516344bac5c4ec5d0dab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru3/kedi_yesil.png using Guid(438c6b79e61516344bac5c4ec5d0dab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ed1dc6113bdb780c465ba247fadf33') in 0.013579 seconds
+  Import took 0.019455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Kapkahve/Soru3/kedi_pembe.png
+  artifactKey: Guid(831691d6ef511f048b007b56c39045cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru3/kedi_pembe.png using Guid(831691d6ef511f048b007b56c39045cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb6d923a561ab9427b3285e89b117d4') in 0.023114 seconds
+  Import took 0.027304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.501976 seconds.
+  path: Assets/Kapkahve/Soru4/top_kahverengi.png
+  artifactKey: Guid(5fad0afac79c64849ba4a79d7fed77bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru4/top_kahverengi.png using Guid(5fad0afac79c64849ba4a79d7fed77bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a60e12f63691429cb4a3fba7e916f96') in 0.017711 seconds
+  Import took 0.022823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Kapkahve/Soru4/top_kirmizi.png
+  artifactKey: Guid(27e52a2d617d75c4d855c2bd3893833d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru4/top_kirmizi.png using Guid(27e52a2d617d75c4d855c2bd3893833d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93799968879252fc6c11827add611f8') in 0.016384 seconds
+  Import took 0.022397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Kapkahve/Soru4/top_mor.png
+  artifactKey: Guid(1b76e7bce9e28554087735cd7743f23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru4/top_mor.png using Guid(1b76e7bce9e28554087735cd7743f23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da8fa93ad094b90ef9e6668e7f44ce0') in 0.030596 seconds
+  Import took 0.035453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Kapkahve/Soru4/top_yesil.png
+  artifactKey: Guid(568b3b8b6c587c245a0957c348d1a787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru4/top_yesil.png using Guid(568b3b8b6c587c245a0957c348d1a787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9ce035dc6c07841e8718a3ada1aa54') in 0.025382 seconds
+  Import took 0.030460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009376 seconds.
+  path: Assets/Kapkahve/Soru4/top_yesil.png
+  artifactKey: Guid(568b3b8b6c587c245a0957c348d1a787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru4/top_yesil.png using Guid(568b3b8b6c587c245a0957c348d1a787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9ce035dc6c07841e8718a3ada1aa54') in 0.014601 seconds
+  Import took 0.019549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.396562 seconds.
+  path: Assets/Kapkahve/Soru5/tisort_kahverengi.png
+  artifactKey: Guid(6e69bf5f0eedfb042b19b349cc5d2366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru5/tisort_kahverengi.png using Guid(6e69bf5f0eedfb042b19b349cc5d2366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afba076a998bc164a33557ad7a6c2648') in 0.018773 seconds
+  Import took 0.023800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Kapkahve/Soru5/tisort_kirmizi.png
+  artifactKey: Guid(51a3fe8046704fc44b6a0824cedb9b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru5/tisort_kirmizi.png using Guid(51a3fe8046704fc44b6a0824cedb9b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd229568833c6e78eefaad3731e737093') in 0.020309 seconds
+  Import took 0.025133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Kapkahve/Soru5/tisort_mavi.png
+  artifactKey: Guid(dbb53d48c3c611d47b5832ba863d6626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru5/tisort_mavi.png using Guid(dbb53d48c3c611d47b5832ba863d6626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5eeb2a035dc36ea526b851e9f4463de') in 0.023293 seconds
+  Import took 0.029262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Kapkahve/Soru5/tisort_mor.png
+  artifactKey: Guid(44b28710c5e885846881c2938cb567e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kapkahve/Soru5/tisort_mor.png using Guid(44b28710c5e885846881c2938cb567e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b102f02a90db45331954180c5a9939') in 0.046199 seconds
+  Import took 0.054181 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.456 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 3.007300 ms (FindLiveObjects: 0.222800 ms CreateObjectMapping: 0.085700 ms MarkObjects: 2.551400 ms  DeleteObjects: 0.145900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.761942 seconds.
+  path: Assets/Simsiyah/Soru1/top_kirmizi.png
+  artifactKey: Guid(cbb3c10d64915f548a40d729d6e86df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru1/top_kirmizi.png using Guid(cbb3c10d64915f548a40d729d6e86df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6072ffa6c4b3020e9e8527dac76a3c') in 0.063927 seconds
+  Import took 0.070818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Simsiyah/Soru1/top_siyah.png
+  artifactKey: Guid(b7e2775c5de6e3e40b0826a7f7413ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru1/top_siyah.png using Guid(b7e2775c5de6e3e40b0826a7f7413ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8821ea0e85a0c4732ccfc60f477b1738') in 0.029295 seconds
+  Import took 0.033893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Simsiyah/Soru1/top_sari.png
+  artifactKey: Guid(dc5b16c05aeb8ac48b3a501673773399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru1/top_sari.png using Guid(dc5b16c05aeb8ac48b3a501673773399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b90d9147588d5eeb9db15d84bb39f8b4') in 0.018735 seconds
+  Import took 0.125431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Simsiyah/Soru1/top_turuncu.png
+  artifactKey: Guid(e192d2f3020de984687ad4e7a303325b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru1/top_turuncu.png using Guid(e192d2f3020de984687ad4e7a303325b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3114e696d00d2969ad06ebe34fb261') in 0.027338 seconds
+  Import took 0.031417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.239604 seconds.
+  path: Assets/Simsiyah/Soru2/kalem_kirmizi.png
+  artifactKey: Guid(aaf05b723fe4dff4caa4ae00c024706d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru2/kalem_kirmizi.png using Guid(aaf05b723fe4dff4caa4ae00c024706d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd4d8fd8c05709f78a1b73d912c61f6') in 0.018287 seconds
+  Import took 0.022630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simsiyah/Soru2/kalem_sari.png
+  artifactKey: Guid(643a683ee26a8fd4f82a8b4dce3f3944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru2/kalem_sari.png using Guid(643a683ee26a8fd4f82a8b4dce3f3944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b515ed345499af3e8ff69581b2f40640') in 0.019831 seconds
+  Import took 0.023745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Simsiyah/Soru2/kalem_siyah.png
+  artifactKey: Guid(45537b93fbd4b9447b935a599ba70c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru2/kalem_siyah.png using Guid(45537b93fbd4b9447b935a599ba70c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da96f83685f057dabbca4c4e67466e08') in 0.028776 seconds
+  Import took 0.034705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Simsiyah/Soru2/kalem_yesil.png
+  artifactKey: Guid(ac9d051bc05e1624a8f6b6dc06a5f027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru2/kalem_yesil.png using Guid(ac9d051bc05e1624a8f6b6dc06a5f027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212fc103ed1d0faebc825bc9454ae03d') in 0.023810 seconds
+  Import took 0.028272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011430 seconds.
+  path: Assets/Simsiyah/Soru2/kalem_yesil.png
+  artifactKey: Guid(ac9d051bc05e1624a8f6b6dc06a5f027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru2/kalem_yesil.png using Guid(ac9d051bc05e1624a8f6b6dc06a5f027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212fc103ed1d0faebc825bc9454ae03d') in 0.014887 seconds
+  Import took 0.018770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.577716 seconds.
+  path: Assets/Simsiyah/Soru3/sapka_mavi.png
+  artifactKey: Guid(a3a88d71608d1124785e53e543bf5d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru3/sapka_mavi.png using Guid(a3a88d71608d1124785e53e543bf5d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b3dd627ffd37dfba5e5e4d259f50d2') in 0.012398 seconds
+  Import took 0.016512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Simsiyah/Soru3/sapka_siyah.png
+  artifactKey: Guid(24e54424d3939574dbbde1d9950f3b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru3/sapka_siyah.png using Guid(24e54424d3939574dbbde1d9950f3b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227a80f22558b3ad18045a12d9f3ec1c') in 0.027344 seconds
+  Import took 0.031014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Simsiyah/Soru3/sapka_mor.png
+  artifactKey: Guid(302f4cd83ea0ec1448970725722075a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru3/sapka_mor.png using Guid(302f4cd83ea0ec1448970725722075a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1574e51a40d718f372e491a2020bde5') in 0.025538 seconds
+  Import took 0.029962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Simsiyah/Soru3/top_yesil.png
+  artifactKey: Guid(b3075025985d2b848bbe101de77ceab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru3/top_yesil.png using Guid(b3075025985d2b848bbe101de77ceab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e3344e45e0e18e6a1cf27ef7a3c72c') in 0.015114 seconds
+  Import took 0.019835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.272268 seconds.
+  path: Assets/Simsiyah/Soru4/kedi_pembe.png
+  artifactKey: Guid(44c7fedcc9c91414f9886386f2ebabd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru4/kedi_pembe.png using Guid(44c7fedcc9c91414f9886386f2ebabd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab923d228086cf6eab809ebf601bb20') in 0.020002 seconds
+  Import took 0.025008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Simsiyah/Soru4/kedi_siyah.png
+  artifactKey: Guid(f837d9255e0baa54a882ce42f37ba093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru4/kedi_siyah.png using Guid(f837d9255e0baa54a882ce42f37ba093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9cf8133a343116a7e9372b546b59507') in 0.032607 seconds
+  Import took 0.037325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Simsiyah/Soru4/kedi_yesil.png
+  artifactKey: Guid(44e4f905ae2c5854c8724f9b67cc1927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru4/kedi_yesil.png using Guid(44e4f905ae2c5854c8724f9b67cc1927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783edcd57da0c084891b9d5d1b762bc3') in 0.019131 seconds
+  Import took 0.023925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simsiyah/Soru4/kedi_sari.png
+  artifactKey: Guid(63d4c4f35b64f804ab0cc5c07d461bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru4/kedi_sari.png using Guid(63d4c4f35b64f804ab0cc5c07d461bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9708ad61cd381ae2a2780f7d9ff75e3d') in 0.018077 seconds
+  Import took 0.023617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014039 seconds.
+  path: Assets/Simsiyah/Soru4/kedi_yesil.png
+  artifactKey: Guid(44e4f905ae2c5854c8724f9b67cc1927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru4/kedi_yesil.png using Guid(44e4f905ae2c5854c8724f9b67cc1927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783edcd57da0c084891b9d5d1b762bc3') in 0.013459 seconds
+  Import took 0.017993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.896699 seconds.
+  path: Assets/Simsiyah/Soru5/tisort_kirmizi.png
+  artifactKey: Guid(22d58048b5e655445bab3eab7ed0f192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru5/tisort_kirmizi.png using Guid(22d58048b5e655445bab3eab7ed0f192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52072a9ba4516da06d0b24d1baaabf6') in 0.012137 seconds
+  Import took 0.016560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Simsiyah/Soru5/tisort_mavi.png
+  artifactKey: Guid(16107d75ad7c5344c9108d758307de9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru5/tisort_mavi.png using Guid(16107d75ad7c5344c9108d758307de9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6872dba18a014a94455b4388653f773') in 0.044970 seconds
+  Import took 0.067238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Simsiyah/Soru5/tisort_siyah.png
+  artifactKey: Guid(651166303c61cc1458d9ddaabfc93155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru5/tisort_siyah.png using Guid(651166303c61cc1458d9ddaabfc93155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c625844b1a6c812a1b22c2baf05c9a4') in 0.037059 seconds
+  Import took 0.042775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000787 seconds.
+  path: Assets/Simsiyah/Soru5/tisort_mor.png
+  artifactKey: Guid(258da8afb3ed1ec4798ca59a35541d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simsiyah/Soru5/tisort_mor.png using Guid(258da8afb3ed1ec4798ca59a35541d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c8e590cd67086029d45ecaa7c107b7') in 0.026745 seconds
+  Import took 0.036664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.104283 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1940155af0e1a18cd8caad8b92c78baa') in 0.011045 seconds
+  Import took 0.025468 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2366.
+Total: 3.008100 ms (FindLiveObjects: 0.250300 ms CreateObjectMapping: 0.120600 ms MarkObjects: 2.487600 ms  DeleteObjects: 0.147800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.284799 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834a5621e711c8fea41353abe9257adc') in 0.035123 seconds
+  Import took 0.042987 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001303 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.455 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 3.263900 ms (FindLiveObjects: 0.254100 ms CreateObjectMapping: 0.090700 ms MarkObjects: 2.772800 ms  DeleteObjects: 0.145000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.258221 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d56a244cf7d806c6188160088c48300') in 0.028056 seconds
+  Import took 0.035304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.791951 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ce2edc73e80bbbae5fcdf7b5b9f9be') in 0.005091 seconds
+  Import took 0.010249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.105392 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b114a5252c55accf15aebda63ca94c') in 0.011143 seconds
+  Import took 0.019129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.757819 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec3a5f2ef3304273ac210f272a9eaf0') in 0.012067 seconds
+  Import took 0.016368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001807 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec3a5f2ef3304273ac210f272a9eaf0') in 0.006491 seconds
+  Import took 0.011893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 405.120323 seconds.
+  path: Assets/Scenes/yesil_haftasi.unity
+  artifactKey: Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/yesil_haftasi.unity using Guid(40df1b1a473bcfc46a750543dd7afda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84da476707172cc94fafe041fc62b58') in 0.013892 seconds
+  Import took 0.023581 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.453 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2374.
+Total: 3.008400 ms (FindLiveObjects: 0.239600 ms CreateObjectMapping: 0.085600 ms MarkObjects: 2.532200 ms  DeleteObjects: 0.149600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.296707 seconds.
+  path: Assets/Scenes/mor_haftasi.unity
+  artifactKey: Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mor_haftasi.unity using Guid(273d18c2b499a8c4f93abc4f37b284d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe4c1dcc5fc40d34f376a1bc1ef7559') in 0.031003 seconds
+  Import took 0.036024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.247859 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43cdc29c8cf165afad5c28d857243db1') in 0.004463 seconds
+  Import took 0.009211 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 2.421500 ms (FindLiveObjects: 0.222400 ms CreateObjectMapping: 0.106800 ms MarkObjects: 1.943400 ms  DeleteObjects: 0.147600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.889373 seconds.
+  path: Assets/Scenes/turuncu_haftasi.unity
+  artifactKey: Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/turuncu_haftasi.unity using Guid(3f4668ac97497eb4182bd1e4302d0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bddb47bbac9a19902abd9476ff12c3') in 0.035512 seconds
+  Import took 0.043093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.634834 seconds.
+  path: Assets/Scenes/sari_haftasi.unity
+  artifactKey: Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/sari_haftasi.unity using Guid(b8f5bca53f5c5c14eaf65d682b65922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac57fc9969f4f331923c78550e13006') in 0.003906 seconds
+  Import took 0.008720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.123779 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed78c595729c21829a33a9665f93cd14') in 0.011901 seconds
+  Import took 0.019406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.908897 seconds.
+  path: Assets/Scripts/gecisler.cs
+  artifactKey: Guid(62832fcbb773d1f4784f893d2dece662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/gecisler.cs using Guid(62832fcbb773d1f4784f893d2dece662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8432cf786ec0ec3f81c62bc17ca9a5') in 0.023239 seconds
+  Import took 0.028677 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001172 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.656 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2382.
+Total: 2.881600 ms (FindLiveObjects: 0.252300 ms CreateObjectMapping: 0.096400 ms MarkObjects: 2.343000 ms  DeleteObjects: 0.188400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.386378 seconds.
+  path: Assets/scripts2/menuc.cs
+  artifactKey: Guid(d654eca620bdc9a45b6c05ee6b40e2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts2/menuc.cs using Guid(d654eca620bdc9a45b6c05ee6b40e2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7cc48b0172e58a220dd78d636c448d') in 0.011464 seconds
+  Import took 0.016212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.524695 seconds.
+  path: Assets/Scenes/pembe_haftasi.unity
+  artifactKey: Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/pembe_haftasi.unity using Guid(1a0c9857b900c8c44b820c7b74c91403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c699214791a919b4f2356e107d6c9bf') in 0.014867 seconds
+  Import took 0.022418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.293057 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb2fe96e7f3440b5aaee68cab35a1cf') in 0.004365 seconds
+  Import took 0.009631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.322477 seconds.
+  path: Assets/Scenes/siyah_haftasi.unity
+  artifactKey: Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/siyah_haftasi.unity using Guid(4b31b607061c7b148a7cb65ee1189872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878dfd14cfd0ff06d8d268f244f6bcf8') in 0.004683 seconds
+  Import took 0.009610 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.521 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2386.
+Total: 3.196700 ms (FindLiveObjects: 0.248300 ms CreateObjectMapping: 0.101100 ms MarkObjects: 2.611700 ms  DeleteObjects: 0.233800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.190 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2390.
+Total: 5.383300 ms (FindLiveObjects: 0.497700 ms CreateObjectMapping: 0.604900 ms MarkObjects: 4.068300 ms  DeleteObjects: 0.210000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.109728 seconds.
+  path: Assets/Scenes/kahverengi_haftasi.unity
+  artifactKey: Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kahverengi_haftasi.unity using Guid(95d7e8da889648d47ba620b289002933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adc07bbf2c6ee684ab5354a64bdcd38') in 0.028807 seconds
+  Import took 0.036051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.044478 seconds.
+  path: Assets/Scenes/kirmizi_haftasi.unity
+  artifactKey: Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/kirmizi_haftasi.unity using Guid(740565084bd8f2142b2e5f58e85224d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506fafa55f514a59e2672d17f807800d') in 0.004481 seconds
+  Import took 0.011085 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.509 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.7 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2394.
+Total: 3.676300 ms (FindLiveObjects: 0.227900 ms CreateObjectMapping: 0.080000 ms MarkObjects: 3.153200 ms  DeleteObjects: 0.212100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 845.557582 seconds.
+  path: Assets/Scripts/Cikis.cs
+  artifactKey: Guid(fc023aad08cff9b47b7665fc2c56e477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cikis.cs using Guid(fc023aad08cff9b47b7665fc2c56e477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88c5ad8b8ff0d303ba68ee0f51bfa60') in 0.022495 seconds
+  Import took 0.028075 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.527 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 2.944800 ms (FindLiveObjects: 0.250400 ms CreateObjectMapping: 0.150900 ms MarkObjects: 2.387800 ms  DeleteObjects: 0.153700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002038 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.490 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 3.126400 ms (FindLiveObjects: 0.230400 ms CreateObjectMapping: 0.111800 ms MarkObjects: 2.613200 ms  DeleteObjects: 0.169500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002838 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 3.981900 ms (FindLiveObjects: 0.650600 ms CreateObjectMapping: 0.495400 ms MarkObjects: 2.673100 ms  DeleteObjects: 0.160700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.401 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2411.
+Total: 2.968600 ms (FindLiveObjects: 0.239600 ms CreateObjectMapping: 0.093500 ms MarkObjects: 2.474600 ms  DeleteObjects: 0.159200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001595 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.131 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2415.
+Total: 3.161200 ms (FindLiveObjects: 0.260800 ms CreateObjectMapping: 0.125800 ms MarkObjects: 2.522800 ms  DeleteObjects: 0.250100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.5 MB.
+System memory in use after: 54.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2415.
+Total: 2.562900 ms (FindLiveObjects: 0.314400 ms CreateObjectMapping: 0.122800 ms MarkObjects: 1.980100 ms  DeleteObjects: 0.144100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
